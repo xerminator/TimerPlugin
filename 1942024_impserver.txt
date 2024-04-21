@@ -1,0 +1,1000 @@
+Apr 19 18:53:55 vps-c34d902b impostor[151376]: [18:53:55 INF] xavier did task action, completed: yes
+Apr 19 18:54:01 vps-c34d902b impostor[151376]: [18:54:01 INF] Hydre did task action, completed: yes
+Apr 19 18:54:02 vps-c34d902b impostor[151376]: [18:54:02 INF] xavier did task action, completed: yes
+Apr 19 18:54:03 vps-c34d902b impostor[151376]: [18:54:03 INF] Skoobie did task action, completed: yes
+Apr 19 18:54:04 vps-c34d902b impostor[151376]: [18:54:04 INF] Nyx did task action, completed: yes
+Apr 19 18:54:05 vps-c34d902b impostor[151376]: [18:54:05 INF] Nyx killed
+Apr 19 18:54:12 vps-c34d902b impostor[151376]: [18:54:12 INF] Skoobie did task action, completed: yes
+Apr 19 18:54:26 vps-c34d902b impostor[151376]: [18:54:26 INF] Nyx did task action, completed: yes
+Apr 19 18:54:26 vps-c34d902b impostor[151376]: [18:54:26 INF] GoYes killed
+Apr 19 18:54:30 vps-c34d902b impostor[151376]: [18:54:30 INF] Meeting Started.
+Apr 19 18:54:30 vps-c34d902b impostor[151376]: [18:54:30 INF] {"EventName":"MeetingStart","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["GoYes","Nyx","xavier"]}
+Apr 19 18:54:30 vps-c34d902b impostor[151376]: [18:54:30 INF] Message sent: {"EventName":"MeetingStart","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["GoYes","Nyx","xavier"]}
+Apr 19 18:55:19 vps-c34d902b impostor[151376]: [18:55:19 INF] GameTimerPlugin: Skip Majority.
+Apr 19 18:55:19 vps-c34d902b impostor[151376]: [18:55:19 INF] Meeting Ended.
+Apr 19 18:55:19 vps-c34d902b impostor[151376]: [18:55:19 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:55:19 vps-c34d902b impostor[151376]: [18:55:19 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:55:48 vps-c34d902b impostor[151376]: [18:55:48 INF] veeg did task action, completed: yes
+Apr 19 18:55:54 vps-c34d902b impostor[151376]: [18:55:54 INF] sylvos did task action, completed: yes
+Apr 19 18:56:09 vps-c34d902b impostor[151376]: [18:56:09 INF] Rocky did task action, completed: yes
+Apr 19 18:56:10 vps-c34d902b impostor[151376]: [18:56:10 INF] Meeting Started.
+Apr 19 18:56:10 vps-c34d902b impostor[151376]: [18:56:10 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:56:10 vps-c34d902b impostor[151376]: [18:56:10 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:56:55 vps-c34d902b impostor[151376]: [18:56:55 INF] Meeting Ended.
+Apr 19 18:56:55 vps-c34d902b impostor[151376]: [18:56:55 INF] {"EventName":"MeetingEnd","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:56:55 vps-c34d902b impostor[151376]: [18:56:55 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:57:11 vps-c34d902b impostor[151376]: [18:57:11 INF] GoYes did task action, completed: yes
+Apr 19 18:57:12 vps-c34d902b impostor[151376]: [18:57:12 INF] Hydre did task action, completed: yes
+Apr 19 18:57:24 vps-c34d902b impostor[151376]: [18:57:24 INF] Simic did task action, completed: yes
+Apr 19 18:57:26 vps-c34d902b impostor[151376]: [18:57:26 INF] GoYes did task action, completed: yes
+Apr 19 18:57:26 vps-c34d902b impostor[151376]: [18:57:26 INF] Nyx did task action, completed: yes
+Apr 19 18:57:30 vps-c34d902b impostor[151376]: [18:57:30 INF] Booya killed
+Apr 19 18:57:31 vps-c34d902b impostor[151376]: [18:57:31 INF] Meeting Started.
+Apr 19 18:57:31 vps-c34d902b impostor[151376]: [18:57:31 INF] {"EventName":"MeetingStart","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["Booya","GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:57:31 vps-c34d902b impostor[151376]: [18:57:31 INF] Message sent: {"EventName":"MeetingStart","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["Booya","GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:58:27 vps-c34d902b impostor[151376]: [18:58:27 INF] GameTimerPlugin: Skip Majority.
+Apr 19 18:58:27 vps-c34d902b impostor[151376]: [18:58:27 INF] Meeting Ended.
+Apr 19 18:58:27 vps-c34d902b impostor[151376]: [18:58:27 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:58:27 vps-c34d902b impostor[151376]: [18:58:27 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["Jay","Rocky"]}
+Apr 19 18:58:48 vps-c34d902b impostor[151376]: [18:58:48 INF] day in the did task action, completed: yes
+Apr 19 18:58:50 vps-c34d902b impostor[151376]: [18:58:50 INF] Meeting Ended.
+Apr 19 18:58:50 vps-c34d902b impostor[151376]: [18:58:50 INF] {"EventName":"MeetingEnd","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["NoOne","Booya","GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:58:50 vps-c34d902b impostor[151376]: [18:58:50 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"DeadPlayers":["NoOne","Booya","GoYes","roobi","Nyx","xavier"]}
+Apr 19 18:58:54 vps-c34d902b impostor[151376]: [18:58:54 INF] veeg did task action, completed: yes
+Apr 19 18:58:56 vps-c34d902b impostor[151376]: [18:58:56 INF] nias did task action, completed: yes
+Apr 19 18:58:58 vps-c34d902b impostor[151376]: [18:58:58 INF] Fear did task action, completed: yes
+Apr 19 18:58:59 vps-c34d902b impostor[151376]: [18:58:59 INF] jip did task action, completed: yes
+Apr 19 18:59:02 vps-c34d902b impostor[151376]: [18:59:02 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 18:59:02 vps-c34d902b impostor[151376]: [18:59:02 INF] Game has ended.
+Apr 19 18:59:02 vps-c34d902b impostor[151376]: [18:59:02 INF] {"EventName":"GameEnd","MatchID":1323,"GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"PlayerColors":[12,2,3,6,1,14,8,17,11,16],"DeadPlayers":["NoOne","Booya","GoYes","roobi","Nyx","xavier"],"Impostors":["NoOne","roobi"],"Crewmates":["Booya","GoYes","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"Result":0}
+Apr 19 18:59:02 vps-c34d902b impostor[151376]: [18:59:02 INF] Message sent: {"EventName":"GameEnd","MatchID":1323,"GameCode":"EJIOQD","Players":["NoOne","Booya","GoYes","roobi","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"PlayerColors":[12,2,3,6,1,14,8,17,11,16],"DeadPlayers":["NoOne","Booya","GoYes","roobi","Nyx","xavier"],"Impostors":["NoOne","roobi"],"Crewmates":["Booya","GoYes","Simic","Nyx","sqorl","xavier","Hydre","Skoobie"],"Result":0}
+Apr 19 18:59:04 vps-c34d902b impostor[151376]: [18:59:04 INF] EJIOQD - Player roobi (509) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player NoOne (538) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player Simic (510) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player Skoobie (516) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player sqorl (512) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player Booya (505) is rejoining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player Booya (505) is joining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] EJIOQD - Player Nyx (511) is joining.
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] Applying settings for game: EJIOQD
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] SyncingSettings for game: EJIOQD
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] Player  > spawned
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] Player  > spawned
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:05 vps-c34d902b impostor[151376]: [18:59:05 INF] Player  > spawned
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] Player  > spawned
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] Player  > spawned
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] Player  > spawned
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] Player  > spawned
+Apr 19 18:59:06 vps-c34d902b impostor[151376]: [18:59:06 INF] EJIOQD - Player Hydre (515) is joining.
+Apr 19 18:59:07 vps-c34d902b impostor[151376]: [18:59:07 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:07 vps-c34d902b impostor[151376]: [18:59:07 INF] Player  > spawned
+Apr 19 18:59:07 vps-c34d902b impostor[151376]: [18:59:07 INF] EJIOQD - Player xavier (514) is joining.
+Apr 19 18:59:08 vps-c34d902b impostor[151376]: [18:59:08 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:08 vps-c34d902b impostor[151376]: [18:59:08 INF] Player  > spawned
+Apr 19 18:59:09 vps-c34d902b impostor[151376]: [18:59:09 INF] EJIOQD - Player GoYes (507) has left.
+Apr 19 18:59:09 vps-c34d902b impostor[151376]: [18:59:09 INF] Client 507 disconnecting, reason: The remote sent a disconnect request
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 INF] EJIOQD - Player xavier (514) has left.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 INF] Client 514 disconnecting, reason: The remote sent a disconnect request
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player roobi (509) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player Simic (510) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player sqorl (512) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player Hydre (515) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player NoOne (538) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:10 vps-c34d902b impostor[151376]: [18:59:10 WRN] Player Nyx (511) tried to send DespawnFlag for 188 but was denied.
+Apr 19 18:59:14 vps-c34d902b impostor[151376]: [18:59:14 INF] sylvos did task action, completed: yes
+Apr 19 18:59:16 vps-c34d902b impostor[151376]: [18:59:16 INF] nias killed
+Apr 19 18:59:26 vps-c34d902b impostor[151376]: [18:59:26 INF] Meeting Started.
+Apr 19 18:59:26 vps-c34d902b impostor[151376]: [18:59:26 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Jay","Rocky"]}
+Apr 19 18:59:26 vps-c34d902b impostor[151376]: [18:59:26 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Jay","Rocky"]}
+Apr 19 18:59:49 vps-c34d902b impostor[151376]: [18:59:49 INF] EJIOQD - Player Bandit (544) is joining.
+Apr 19 18:59:49 vps-c34d902b impostor[151376]: [18:59:49 INF] PlayerSpawnedEvent called in game: EJIOQD
+Apr 19 18:59:49 vps-c34d902b impostor[151376]: [18:59:49 INF] Player  > spawned
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 INF] EJIOQD - Player Nyx (511) has left.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 INF] Client 511 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player roobi (509) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player Simic (510) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player sqorl (512) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player Skoobie (516) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player Hydre (515) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player Bandit (544) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:17 vps-c34d902b impostor[151376]: [19:00:17 WRN] Player NoOne (538) tried to send DespawnFlag for 182 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 INF] EJIOQD - Player roobi (509) has left.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 INF] Client 509 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player Hydre (515) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player Simic (510) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player sqorl (512) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player Skoobie (516) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player Bandit (544) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:00:49 vps-c34d902b impostor[151376]: [19:00:49 WRN] Player NoOne (538) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:01:18 vps-c34d902b impostor[151376]: [19:01:18 INF] EJIOQD - Player Skoobie (516) has left.
+Apr 19 19:01:18 vps-c34d902b impostor[151376]: [19:01:18 INF] Client 516 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:01:18 vps-c34d902b impostor[151376]: [19:01:18 WRN] Player Hydre (515) tried to send DespawnFlag for 179 but was denied.
+Apr 19 19:01:18 vps-c34d902b impostor[151376]: [19:01:18 WRN] Player Bandit (544) tried to send DespawnFlag for 179 but was denied.
+Apr 19 19:01:18 vps-c34d902b impostor[151376]: [19:01:18 WRN] Player NoOne (538) tried to send DespawnFlag for 179 but was denied.
+Apr 19 19:01:22 vps-c34d902b impostor[151376]: [19:01:22 INF] EJIOQD - Player sqorl (512) has left.
+Apr 19 19:01:22 vps-c34d902b impostor[151376]: [19:01:22 INF] Client 512 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:01:23 vps-c34d902b impostor[151376]: [19:01:23 WRN] Player Simic (510) tried to send DespawnFlag for 173 but was denied.
+Apr 19 19:01:23 vps-c34d902b impostor[151376]: [19:01:23 WRN] Player Bandit (544) tried to send DespawnFlag for 173 but was denied.
+Apr 19 19:01:23 vps-c34d902b impostor[151376]: [19:01:23 WRN] Player Hydre (515) tried to send DespawnFlag for 173 but was denied.
+Apr 19 19:01:23 vps-c34d902b impostor[151376]: [19:01:23 WRN] Player NoOne (538) tried to send DespawnFlag for 173 but was denied.
+Apr 19 19:01:29 vps-c34d902b impostor[151376]: [19:01:29 INF] EJIOQD - Player Simic (510) has left.
+Apr 19 19:01:29 vps-c34d902b impostor[151376]: [19:01:29 INF] Client 510 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:01:29 vps-c34d902b impostor[151376]: [19:01:29 WRN] Player Hydre (515) tried to send DespawnFlag for 167 but was denied.
+Apr 19 19:01:29 vps-c34d902b impostor[151376]: [19:01:29 WRN] Player Bandit (544) tried to send DespawnFlag for 167 but was denied.
+Apr 19 19:01:29 vps-c34d902b impostor[151376]: [19:01:29 WRN] Player NoOne (538) tried to send DespawnFlag for 167 but was denied.
+Apr 19 19:01:48 vps-c34d902b impostor[151376]: [19:01:48 INF] Meeting Ended.
+Apr 19 19:01:48 vps-c34d902b impostor[151376]: [19:01:48 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","Jay","Rocky"]}
+Apr 19 19:01:48 vps-c34d902b impostor[151376]: [19:01:48 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","Jay","Rocky"]}
+Apr 19 19:02:11 vps-c34d902b impostor[151376]: [19:02:11 INF] day in the did task action, completed: yes
+Apr 19 19:02:14 vps-c34d902b impostor[151376]: [19:02:14 INF] nias did task action, completed: yes
+Apr 19 19:02:16 vps-c34d902b impostor[151376]: [19:02:16 INF] nias did task action, completed: yes
+Apr 19 19:02:31 vps-c34d902b impostor[151376]: [19:02:31 INF] nias did task action, completed: yes
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 INF] Meeting Started.
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","Jay","Rocky"]}
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","Jay","Rocky"]}
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 INF] EJIOQD - Player Hydre (515) has left.
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 INF] Client 515 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 WRN] Player Bandit (544) tried to send DespawnFlag for 185 but was denied.
+Apr 19 19:02:39 vps-c34d902b impostor[151376]: [19:02:39 WRN] Player NoOne (538) tried to send DespawnFlag for 185 but was denied.
+Apr 19 19:03:46 vps-c34d902b impostor[151376]: [19:03:46 INF] Meeting Ended.
+Apr 19 19:03:46 vps-c34d902b impostor[151376]: [19:03:46 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","Rocky"]}
+Apr 19 19:03:46 vps-c34d902b impostor[151376]: [19:03:46 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","Rocky"]}
+Apr 19 19:04:00 vps-c34d902b impostor[151376]: [19:04:00 INF] EJIOQD - Player NoOne (538) has left.
+Apr 19 19:04:00 vps-c34d902b impostor[151376]: [19:04:00 INF] Client 538 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:04:01 vps-c34d902b impostor[151376]: [19:04:01 WRN] Player Bandit (544) tried to send DespawnFlag for 176 but was denied.
+Apr 19 19:04:12 vps-c34d902b impostor[151376]: [19:04:12 INF] jip did task action, completed: yes
+Apr 19 19:04:14 vps-c34d902b impostor[151376]: [19:04:14 INF] Fear did task action, completed: yes
+Apr 19 19:04:18 vps-c34d902b impostor[151376]: [19:04:18 INF] sylvos did task action, completed: yes
+Apr 19 19:04:21 vps-c34d902b impostor[151376]: [19:04:21 INF] day in the did task action, completed: yes
+Apr 19 19:04:52 vps-c34d902b impostor[151376]: [19:04:52 INF] day in the did task action, completed: yes
+Apr 19 19:04:52 vps-c34d902b impostor[151376]: [19:04:52 INF] Meeting Started.
+Apr 19 19:04:52 vps-c34d902b impostor[151376]: [19:04:52 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","Rocky"]}
+Apr 19 19:04:52 vps-c34d902b impostor[151376]: [19:04:52 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","Rocky"]}
+Apr 19 19:05:23 vps-c34d902b impostor[151376]: [19:05:23 INF] Meeting Ended.
+Apr 19 19:05:23 vps-c34d902b impostor[151376]: [19:05:23 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","DrDuca","Rocky"]}
+Apr 19 19:05:23 vps-c34d902b impostor[151376]: [19:05:23 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"DeadPlayers":["nias","Dani","veeg","Jay","DrDuca","Rocky"]}
+Apr 19 19:05:35 vps-c34d902b impostor[151376]: [19:05:35 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 19:05:35 vps-c34d902b impostor[151376]: [19:05:35 INF] Game has ended.
+Apr 19 19:05:35 vps-c34d902b impostor[151376]: [19:05:35 INF] {"EventName":"GameEnd","MatchID":1324,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"PlayerColors":[7,17,6,4,9,15,16,0,14,3],"DeadPlayers":["nias","Dani","veeg","Jay","DrDuca","Rocky"],"Impostors":["Dani","DrDuca"],"Crewmates":["nias","veeg","day in the","sylvos","Jay","jip","Fear","Rocky"],"Result":0}
+Apr 19 19:05:35 vps-c34d902b impostor[151376]: [19:05:35 INF] Message sent: {"EventName":"GameEnd","MatchID":1324,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","Fear","DrDuca","Rocky"],"PlayerColors":[7,17,6,4,9,15,16,0,14,3],"DeadPlayers":["nias","Dani","veeg","Jay","DrDuca","Rocky"],"Impostors":["Dani","DrDuca"],"Crewmates":["nias","veeg","day in the","sylvos","Jay","jip","Fear","Rocky"],"Result":0}
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] RLQXFG - Player nias (527) is rejoining.
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] RLQXFG - Player nias (527) is joining.
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] Applying settings for game: RLQXFG
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:05:37 vps-c34d902b impostor[151376]: [19:05:37 INF] Player  > spawned
+Apr 19 19:05:38 vps-c34d902b impostor[151376]: [19:05:38 INF] RLQXFG - Player Dani (528) is joining.
+Apr 19 19:05:38 vps-c34d902b impostor[151376]: [19:05:38 INF] RLQXFG - Player Fear (541) is joining.
+Apr 19 19:05:38 vps-c34d902b impostor[151376]: [19:05:38 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:38 vps-c34d902b impostor[151376]: [19:05:38 INF] Player  > spawned
+Apr 19 19:05:38 vps-c34d902b impostor[151376]: [19:05:38 INF] RLQXFG - Player jip (539) is joining.
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] Player  > spawned
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] RLQXFG - Player veeg (529) is joining.
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] RLQXFG - Player DrDuca (542) is joining.
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] RLQXFG - Player day in the (530) is joining.
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:39 vps-c34d902b impostor[151376]: [19:05:39 INF] Player  > spawned
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] Player  > spawned
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] Player  > spawned
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] RLQXFG - Player Rocky (543) is joining.
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:40 vps-c34d902b impostor[151376]: [19:05:40 INF] Player  > spawned
+Apr 19 19:05:41 vps-c34d902b impostor[151376]: [19:05:41 INF] RLQXFG - Player 541 spawn timed out, kicking.
+Apr 19 19:05:41 vps-c34d902b impostor[151376]: [19:05:41 INF] RLQXFG - Player 541 has left.
+Apr 19 19:05:41 vps-c34d902b impostor[151376]: [19:05:41 INF] RLQXFG - Player Fear (541) has left.
+Apr 19 19:05:43 vps-c34d902b impostor[151376]: [19:05:43 INF] RLQXFG - Player Fear (541) kept connection open after leaving, disposing.
+Apr 19 19:05:45 vps-c34d902b impostor[151376]: [19:05:45 INF] RLQXFG - Player sylvos (532) is joining.
+Apr 19 19:05:45 vps-c34d902b impostor[151376]: [19:05:45 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:05:45 vps-c34d902b impostor[151376]: [19:05:45 INF] Player  > spawned
+Apr 19 19:06:08 vps-c34d902b impostor[151376]: [19:06:08 INF] RLQXFG - Player Fear (545) is joining.
+Apr 19 19:06:09 vps-c34d902b impostor[151376]: [19:06:09 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:06:09 vps-c34d902b impostor[151376]: [19:06:09 INF] Player  > spawned
+Apr 19 19:06:46 vps-c34d902b impostor[151376]: [19:06:46 INF] RLQXFG - Player Jay (533) is joining.
+Apr 19 19:06:47 vps-c34d902b impostor[151376]: [19:06:47 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:06:47 vps-c34d902b impostor[151376]: [19:06:47 INF] Player  > spawned
+Apr 19 19:06:54 vps-c34d902b impostor[151376]: [19:06:54 INF] GameStartingEvent called in game: RLQXFG
+Apr 19 19:06:54 vps-c34d902b impostor[151376]: [19:06:54 INF] Applying settings for game: RLQXFG
+Apr 19 19:06:54 vps-c34d902b impostor[151376]: [19:06:54 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:06:57 vps-c34d902b impostor[151376]: [19:06:57 INF] Game is starting.
+Apr 19 19:06:57 vps-c34d902b impostor[151376]: [19:06:57 INF] {"EventName":"GameStart","MatchID":1325,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"PlayerColors":[7,17,6,4,9,15,16,14,3,0],"Impostors":["nias","jip"],"Crewmates":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"]}
+Apr 19 19:06:57 vps-c34d902b impostor[151376]: [19:06:57 INF] Message sent: {"EventName":"GameStart","MatchID":1325,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"PlayerColors":[7,17,6,4,9,15,16,14,3,0],"Impostors":["nias","jip"],"Crewmates":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"]}
+Apr 19 19:07:08 vps-c34d902b impostor[151376]: [19:07:08 INF] DrDuca did task action, completed: yes
+Apr 19 19:07:09 vps-c34d902b impostor[151376]: [19:07:09 INF] Fear did task action, completed: yes
+Apr 19 19:07:19 vps-c34d902b impostor[151376]: [19:07:19 INF] DrDuca killed
+Apr 19 19:07:22 vps-c34d902b impostor[151376]: [19:07:22 INF] day in the did task action, completed: yes
+Apr 19 19:07:23 vps-c34d902b impostor[151376]: [19:07:23 INF] Jay did task action, completed: yes
+Apr 19 19:07:34 vps-c34d902b impostor[151376]: [19:07:34 INF] DrDuca did task action, completed: yes
+Apr 19 19:07:38 vps-c34d902b impostor[151376]: [19:07:38 WRN] Client sent CompleteTask with a taskIndex that is not in their InnerPlayerInfo
+Apr 19 19:07:42 vps-c34d902b impostor[151376]: [19:07:42 INF] Meeting Started.
+Apr 19 19:07:42 vps-c34d902b impostor[151376]: [19:07:42 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:07:42 vps-c34d902b impostor[151376]: [19:07:42 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 ERR] Invoking data received failed
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: System.NullReferenceException: Object reference not set to an instance of an object.
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.Inner.Objects.InnerMeetingHud.HandleVoteAsync(PlayerVoteArea playerState) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/Inner/Objects/InnerMeetingHud.cs:line 184
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.Inner.Objects.InnerMeetingHud.HandleCastVoteAsync(ClientPlayer sender, ClientPlayer target, Byte playerId, Byte suspectPlayerId) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/Inner/Objects/InnerMeetingHud.cs:line 217
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.Inner.Objects.InnerMeetingHud.HandleRpcAsync(ClientPlayer sender, ClientPlayer target, RpcCalls call, IMessageReader reader) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/Inner/Objects/InnerMeetingHud.cs:line 150
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.State.Game.HandleGameDataAsync(IMessageReader parent, ClientPlayer sender, Boolean toPlayer) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/State/Game.Data.cs:line 108
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.Client.HandleMessageAsync(IMessageReader reader, MessageType messageType) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/Client.cs:line 183
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Server.Net.Hazel.HazelConnection.ConnectionOnDataReceived(DataReceivedEventArgs e) in /home/runner/work/Impostor/Impostor/src/Impostor.Server/Net/Hazel/HazelConnection.cs:line 70
+Apr 19 19:10:01 vps-c34d902b impostor[151376]:    at Impostor.Hazel.Connection.InvokeDataReceived(MessageReader msg, MessageType messageType)
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 INF] RLQXFG - Player Dani (528) has left.
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 INF] Client 528 disconnecting, reason: Invoking data received failed
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 WRN] Player Rocky (543) tried to send DespawnFlag for 103 but was denied.
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 WRN] Player Jay (533) tried to send DespawnFlag for 103 but was denied.
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 WRN] Player veeg (529) tried to send DespawnFlag for 103 but was denied.
+Apr 19 19:10:01 vps-c34d902b impostor[151376]: [19:10:01 WRN] Player jip (539) tried to send DespawnFlag for 103 but was denied.
+Apr 19 19:10:02 vps-c34d902b impostor[151376]: [19:10:02 INF] Meeting Ended.
+Apr 19 19:10:02 vps-c34d902b impostor[151376]: [19:10:02 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:10:02 vps-c34d902b impostor[151376]: [19:10:02 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:10:22 vps-c34d902b impostor[151376]: [19:10:22 INF] DrDuca did task action, completed: yes
+Apr 19 19:10:23 vps-c34d902b impostor[151376]: [19:10:23 INF] sylvos did task action, completed: yes
+Apr 19 19:10:31 vps-c34d902b impostor[151376]: [19:10:31 INF] Jay did task action, completed: yes
+Apr 19 19:10:32 vps-c34d902b impostor[151376]: [19:10:32 INF] DrDuca did task action, completed: yes
+Apr 19 19:10:35 vps-c34d902b impostor[151376]: [19:10:35 INF] sylvos did task action, completed: yes
+Apr 19 19:10:37 vps-c34d902b impostor[151376]: [19:10:37 INF] Meeting Started.
+Apr 19 19:10:37 vps-c34d902b impostor[151376]: [19:10:37 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:10:37 vps-c34d902b impostor[151376]: [19:10:37 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"DeadPlayers":["DrDuca"]}
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Dani killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] veeg killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] day in the killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] sylvos killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Jay killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Rocky killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Fear killed
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Game has ended.
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] {"EventName":"GameEnd","MatchID":1325,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"PlayerColors":[7,17,6,4,9,15,16,14,3,0],"DeadPlayers":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"],"Impostors":["nias","jip"],"Crewmates":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"],"Result":3}
+Apr 19 19:10:40 vps-c34d902b impostor[151376]: [19:10:40 INF] Message sent: {"EventName":"GameEnd","MatchID":1325,"GameCode":"RLQXFG","Players":["nias","Dani","veeg","day in the","sylvos","Jay","jip","DrDuca","Rocky","Fear"],"PlayerColors":[7,17,6,4,9,15,16,14,3,0],"DeadPlayers":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"],"Impostors":["nias","jip"],"Crewmates":["Dani","veeg","day in the","sylvos","Jay","DrDuca","Rocky","Fear"],"Result":3}
+Apr 19 19:10:42 vps-c34d902b impostor[151376]: [19:10:42 INF] RLQXFG - Player jip (539) is rejoining.
+Apr 19 19:10:42 vps-c34d902b impostor[151376]: [19:10:42 INF] RLQXFG - Player veeg (529) is rejoining.
+Apr 19 19:10:42 vps-c34d902b impostor[151376]: [19:10:42 INF] RLQXFG - Player nias (527) is rejoining.
+Apr 19 19:10:42 vps-c34d902b impostor[151376]: [19:10:42 INF] RLQXFG - Player nias (527) is joining.
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] Applying settings for game: RLQXFG
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] Player  > spawned
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] Player  > spawned
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] Player  > spawned
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] RLQXFG - Player Rocky (543) is joining.
+Apr 19 19:10:43 vps-c34d902b impostor[151376]: [19:10:43 INF] RLQXFG - Player Jay (533) is joining.
+Apr 19 19:10:44 vps-c34d902b impostor[151376]: [19:10:44 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:44 vps-c34d902b impostor[151376]: [19:10:44 INF] Player  > spawned
+Apr 19 19:10:44 vps-c34d902b impostor[151376]: [19:10:44 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:44 vps-c34d902b impostor[151376]: [19:10:44 INF] Player  > spawned
+Apr 19 19:10:46 vps-c34d902b impostor[151376]: [19:10:46 INF] RLQXFG - Player sylvos (532) is joining.
+Apr 19 19:10:47 vps-c34d902b impostor[151376]: [19:10:47 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:47 vps-c34d902b impostor[151376]: [19:10:47 INF] Player  > spawned
+Apr 19 19:10:48 vps-c34d902b impostor[151376]: [19:10:48 INF] RLQXFG - Player DrDuca (542) is joining.
+Apr 19 19:10:48 vps-c34d902b impostor[151376]: [19:10:48 INF] RLQXFG - Player Fear (545) is joining.
+Apr 19 19:10:48 vps-c34d902b impostor[151376]: [19:10:48 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:48 vps-c34d902b impostor[151376]: [19:10:48 INF] Player  > spawned
+Apr 19 19:10:49 vps-c34d902b impostor[151376]: [19:10:49 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:49 vps-c34d902b impostor[151376]: [19:10:49 INF] Player  > spawned
+Apr 19 19:10:51 vps-c34d902b impostor[151376]: [19:10:51 INF] RLQXFG - Player day in the (530) has left.
+Apr 19 19:10:51 vps-c34d902b impostor[151376]: [19:10:51 INF] Client 530 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 INF] RLQXFG - Player Rocky (543) has left.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 INF] Client 543 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 WRN] Player veeg (529) tried to send DespawnFlag for 149 but was denied.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 WRN] Player DrDuca (542) tried to send DespawnFlag for 149 but was denied.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 INF] RLQXFG - Player Dani (546) is joining.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 WRN] Player jip (539) tried to send DespawnFlag for 149 but was denied.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 WRN] Player Jay (533) tried to send DespawnFlag for 149 but was denied.
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:10:53 vps-c34d902b impostor[151376]: [19:10:53 INF] Player  > spawned
+Apr 19 19:11:21 vps-c34d902b impostor[151376]: [19:11:21 INF] RLQXFG - Player jip (539) has left.
+Apr 19 19:11:21 vps-c34d902b impostor[151376]: [19:11:21 INF] Client 539 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:11:21 vps-c34d902b impostor[151376]: [19:11:21 WRN] Player Jay (533) tried to send DespawnFlag for 143 but was denied.
+Apr 19 19:11:21 vps-c34d902b impostor[151376]: [19:11:21 WRN] Player veeg (529) tried to send DespawnFlag for 143 but was denied.
+Apr 19 19:11:21 vps-c34d902b impostor[151376]: [19:11:21 WRN] Player Dani (546) tried to send DespawnFlag for 143 but was denied.
+Apr 19 19:11:35 vps-c34d902b impostor[151376]: [19:11:35 INF] RLQXFG - Player Fear (545) has left.
+Apr 19 19:11:35 vps-c34d902b impostor[151376]: [19:11:35 INF] Client 545 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:11:35 vps-c34d902b impostor[151376]: [19:11:35 WRN] Player Jay (533) tried to send DespawnFlag for 158 but was denied.
+Apr 19 19:11:35 vps-c34d902b impostor[151376]: [19:11:35 WRN] Player veeg (529) tried to send DespawnFlag for 158 but was denied.
+Apr 19 19:12:17 vps-c34d902b impostor[151376]: [19:12:17 INF] RLQXFG - Player day in the (547) is joining.
+Apr 19 19:12:18 vps-c34d902b impostor[151376]: [19:12:18 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:12:18 vps-c34d902b impostor[151376]: [19:12:18 INF] Player  > spawned
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 INF] RLQXFG - Player Dani (546) has left.
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 INF] Client 546 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 WRN] Player Jay (533) tried to send DespawnFlag for 161 but was denied.
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 WRN] Player veeg (529) tried to send DespawnFlag for 161 but was denied.
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 WRN] Player day in the (547) tried to send DespawnFlag for 161 but was denied.
+Apr 19 19:12:32 vps-c34d902b impostor[151376]: [19:12:32 WRN] Player DrDuca (542) tried to send DespawnFlag for 161 but was denied.
+Apr 19 19:13:36 vps-c34d902b impostor[151376]: [19:13:36 INF] RLQXFG - Player Dani (548) is joining.
+Apr 19 19:13:36 vps-c34d902b impostor[151376]: [19:13:36 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:13:36 vps-c34d902b impostor[151376]: [19:13:36 INF] Player  > spawned
+Apr 19 19:14:41 vps-c34d902b impostor[151376]: [19:14:41 INF] RLQXFG - Player Fear (549) is joining.
+Apr 19 19:14:42 vps-c34d902b impostor[151376]: [19:14:42 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:14:42 vps-c34d902b impostor[151376]: [19:14:42 INF] Player  > spawned
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 INF] RLQXFG - Player Fear (549) has left.
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 INF] Client 549 disconnecting, reason: Reliable packet 36 (size=32) was not ack'd after 5066ms (6 resends)
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 WRN] Player Jay (533) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 WRN] Player veeg (529) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 WRN] Player DrDuca (542) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 WRN] Player Dani (548) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:15:22 vps-c34d902b impostor[151376]: [19:15:22 WRN] Player day in the (547) tried to send DespawnFlag for 170 but was denied.
+Apr 19 19:15:29 vps-c34d902b impostor[151376]: [19:15:29 INF] RLQXFG - Player Afro (550) is joining.
+Apr 19 19:15:30 vps-c34d902b impostor[151376]: [19:15:30 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:15:30 vps-c34d902b impostor[151376]: [19:15:30 INF] Player  > spawned
+Apr 19 19:15:36 vps-c34d902b impostor[151376]: [19:15:36 INF] RLQXFG - Player Rocky (551) is joining.
+Apr 19 19:15:37 vps-c34d902b impostor[151376]: [19:15:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:15:37 vps-c34d902b impostor[151376]: [19:15:37 INF] Player  > spawned
+Apr 19 19:15:43 vps-c34d902b impostor[151376]: [19:15:43 INF] RLQXFG - Player Fear (552) is joining.
+Apr 19 19:15:44 vps-c34d902b impostor[151376]: [19:15:44 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:15:44 vps-c34d902b impostor[151376]: [19:15:44 INF] Player  > spawned
+Apr 19 19:16:05 vps-c34d902b impostor[151376]: [19:16:05 INF] GameStartingEvent called in game: RLQXFG
+Apr 19 19:16:05 vps-c34d902b impostor[151376]: [19:16:05 INF] Applying settings for game: RLQXFG
+Apr 19 19:16:05 vps-c34d902b impostor[151376]: [19:16:05 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:16:08 vps-c34d902b impostor[151376]: [19:16:08 INF] Game is starting.
+Apr 19 19:16:08 vps-c34d902b impostor[151376]: [19:16:08 INF] {"EventName":"GameStart","MatchID":1326,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"Impostors":["nias","veeg"],"Crewmates":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"]}
+Apr 19 19:16:08 vps-c34d902b impostor[151376]: [19:16:08 INF] Message sent: {"EventName":"GameStart","MatchID":1326,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"Impostors":["nias","veeg"],"Crewmates":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"]}
+Apr 19 19:16:20 vps-c34d902b impostor[151376]: [19:16:20 INF] Fear did task action, completed: yes
+Apr 19 19:16:20 vps-c34d902b impostor[151376]: [19:16:20 INF] Jay did task action, completed: yes
+Apr 19 19:16:20 vps-c34d902b impostor[151376]: [19:16:20 INF] Dani did task action, completed: yes
+Apr 19 19:16:22 vps-c34d902b impostor[151376]: [19:16:22 INF] DrDuca did task action, completed: yes
+Apr 19 19:16:22 vps-c34d902b impostor[151376]: [19:16:22 INF] Jay did task action, completed: yes
+Apr 19 19:16:22 vps-c34d902b impostor[151376]: [19:16:22 INF] Rocky did task action, completed: yes
+Apr 19 19:16:24 vps-c34d902b impostor[151376]: [19:16:24 INF] Dani did task action, completed: yes
+Apr 19 19:16:25 vps-c34d902b impostor[151376]: [19:16:25 INF] Afro did task action, completed: yes
+Apr 19 19:16:26 vps-c34d902b impostor[151376]: [19:16:26 INF] Rocky did task action, completed: yes
+Apr 19 19:16:33 vps-c34d902b impostor[151376]: [19:16:33 INF] DrDuca did task action, completed: yes
+Apr 19 19:16:39 vps-c34d902b impostor[151376]: [19:16:39 INF] DrDuca did task action, completed: yes
+Apr 19 19:16:41 vps-c34d902b impostor[151376]: [19:16:41 INF] Jay did task action, completed: yes
+Apr 19 19:16:44 vps-c34d902b impostor[151376]: [19:16:44 INF] DrDuca did task action, completed: yes
+Apr 19 19:16:45 vps-c34d902b impostor[151376]: [19:16:45 INF] day in the did task action, completed: yes
+Apr 19 19:16:45 vps-c34d902b impostor[151376]: [19:16:45 INF] Meeting Started.
+Apr 19 19:16:45 vps-c34d902b impostor[151376]: [19:16:45 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":[]}
+Apr 19 19:16:45 vps-c34d902b impostor[151376]: [19:16:45 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":[]}
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] sylvos killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Jay killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] DrDuca killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] day in the killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Dani killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Afro killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Rocky killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Fear killed
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Game has ended.
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] {"EventName":"GameEnd","MatchID":1326,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"DeadPlayers":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Impostors":["nias","veeg"],"Crewmates":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Result":3}
+Apr 19 19:17:08 vps-c34d902b impostor[151376]: [19:17:08 INF] Message sent: {"EventName":"GameEnd","MatchID":1326,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"DeadPlayers":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Impostors":["nias","veeg"],"Crewmates":["sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Result":3}
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] RLQXFG - Player nias (527) is rejoining.
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] RLQXFG - Player nias (527) is joining.
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] RLQXFG - Player Jay (533) is joining.
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] RLQXFG - Player Rocky (551) is joining.
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] Applying settings for game: RLQXFG
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] Player  > spawned
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] RLQXFG - Player Fear (552) is joining.
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] Player  > spawned
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:11 vps-c34d902b impostor[151376]: [19:17:11 INF] Player  > spawned
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] RLQXFG - Player veeg (529) is joining.
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] RLQXFG - Player day in the (547) is joining.
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] Player  > spawned
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] RLQXFG - Player DrDuca (542) is joining.
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] RLQXFG - Player Dani (548) is joining.
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] Player  > spawned
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:12 vps-c34d902b impostor[151376]: [19:17:12 INF] Player  > spawned
+Apr 19 19:17:13 vps-c34d902b impostor[151376]: [19:17:13 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:13 vps-c34d902b impostor[151376]: [19:17:13 INF] Player  > spawned
+Apr 19 19:17:14 vps-c34d902b impostor[151376]: [19:17:14 INF] RLQXFG - Player 552 spawn timed out, kicking.
+Apr 19 19:17:14 vps-c34d902b impostor[151376]: [19:17:14 INF] RLQXFG - Player 552 has left.
+Apr 19 19:17:14 vps-c34d902b impostor[151376]: [19:17:14 INF] RLQXFG - Player Fear (552) has left.
+Apr 19 19:17:14 vps-c34d902b impostor[151376]: [19:17:14 INF] RLQXFG - Player Afro (550) is joining.
+Apr 19 19:17:15 vps-c34d902b impostor[151376]: [19:17:15 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:15 vps-c34d902b impostor[151376]: [19:17:15 INF] Player  > spawned
+Apr 19 19:17:16 vps-c34d902b impostor[151376]: [19:17:16 INF] RLQXFG - Player Fear (552) kept connection open after leaving, disposing.
+Apr 19 19:17:31 vps-c34d902b impostor[151376]: [19:17:31 INF] RLQXFG - Player sylvos (532) is joining.
+Apr 19 19:17:32 vps-c34d902b impostor[151376]: [19:17:32 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:32 vps-c34d902b impostor[151376]: [19:17:32 INF] Player  > spawned
+Apr 19 19:17:48 vps-c34d902b impostor[151376]: [19:17:48 INF] RLQXFG - Player Fear (553) is joining.
+Apr 19 19:17:49 vps-c34d902b impostor[151376]: [19:17:49 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:17:49 vps-c34d902b impostor[151376]: [19:17:49 INF] Player  > spawned
+Apr 19 19:18:00 vps-c34d902b impostor[151376]: [19:18:00 INF] GameStartingEvent called in game: RLQXFG
+Apr 19 19:18:00 vps-c34d902b impostor[151376]: [19:18:00 INF] Applying settings for game: RLQXFG
+Apr 19 19:18:00 vps-c34d902b impostor[151376]: [19:18:00 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:18:03 vps-c34d902b impostor[151376]: [19:18:03 INF] Game is starting.
+Apr 19 19:18:03 vps-c34d902b impostor[151376]: [19:18:03 INF] {"EventName":"GameStart","MatchID":1327,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"Impostors":["sylvos","Jay"],"Crewmates":["nias","veeg","DrDuca","day in the","Dani","Afro","Rocky","Fear"]}
+Apr 19 19:18:03 vps-c34d902b impostor[151376]: [19:18:03 INF] Message sent: {"EventName":"GameStart","MatchID":1327,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"Impostors":["sylvos","Jay"],"Crewmates":["nias","veeg","DrDuca","day in the","Dani","Afro","Rocky","Fear"]}
+Apr 19 19:18:14 vps-c34d902b impostor[151376]: [19:18:14 INF] DrDuca did task action, completed: yes
+Apr 19 19:18:15 vps-c34d902b impostor[151376]: [19:18:15 INF] Fear did task action, completed: yes
+Apr 19 19:18:16 vps-c34d902b impostor[151376]: [19:18:16 INF] Afro did task action, completed: yes
+Apr 19 19:18:16 vps-c34d902b impostor[151376]: [19:18:16 INF] Rocky did task action, completed: yes
+Apr 19 19:18:16 vps-c34d902b impostor[151376]: [19:18:16 INF] veeg did task action, completed: yes
+Apr 19 19:18:18 vps-c34d902b impostor[151376]: [19:18:18 INF] nias did task action, completed: yes
+Apr 19 19:18:20 vps-c34d902b impostor[151376]: [19:18:20 INF] Dani did task action, completed: yes
+Apr 19 19:18:22 vps-c34d902b impostor[151376]: [19:18:22 INF] Rocky did task action, completed: yes
+Apr 19 19:18:22 vps-c34d902b impostor[151376]: [19:18:22 INF] Afro did task action, completed: yes
+Apr 19 19:18:33 vps-c34d902b impostor[151376]: [19:18:33 INF] day in the killed
+Apr 19 19:18:35 vps-c34d902b impostor[151376]: [19:18:35 INF] Meeting Started.
+Apr 19 19:18:35 vps-c34d902b impostor[151376]: [19:18:35 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["day in the"]}
+Apr 19 19:18:35 vps-c34d902b impostor[151376]: [19:18:35 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["day in the"]}
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 INF] RLQXFG - Player day in the (547) has left.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 INF] Client 547 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player Afro (550) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player veeg (529) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player Jay (533) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player DrDuca (542) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player Rocky (551) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:06 vps-c34d902b impostor[151376]: [19:19:06 WRN] Player Dani (548) tried to send DespawnFlag for 200 but was denied.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: [19:19:10 ERR] Invocation of event PlayerVotedEvent threw an exception.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: System.NullReferenceException: Object reference not set to an instance of an object.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at MatchLog.MatchListener.onVote(IPlayerVotedEvent e)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at lambda_method21(Closure, Object, Object, IServiceProvider)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at Impostor.Server.Events.EventManager.CallAsync[T](T event)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: [19:19:10 ERR] Invocation of event PlayerVotedEvent threw an exception.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: System.NullReferenceException: Object reference not set to an instance of an object.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at MatchLog.MatchListener.onVote(IPlayerVotedEvent e)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at lambda_method21(Closure, Object, Object, IServiceProvider)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]:    at Impostor.Server.Events.EventManager.CallAsync[T](T event)
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: [19:19:10 INF] Meeting Ended.
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: [19:19:10 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["day in the"]}
+Apr 19 19:19:10 vps-c34d902b impostor[151376]: [19:19:10 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["day in the"]}
+Apr 19 19:19:15 vps-c34d902b impostor[151376]: [19:19:15 INF] Meeting Ended.
+Apr 19 19:19:15 vps-c34d902b impostor[151376]: [19:19:15 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","day in the"]}
+Apr 19 19:19:15 vps-c34d902b impostor[151376]: [19:19:15 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","day in the"]}
+Apr 19 19:19:48 vps-c34d902b impostor[151376]: [19:19:48 INF] veeg did task action, completed: yes
+Apr 19 19:19:53 vps-c34d902b impostor[151376]: [19:19:53 INF] DrDuca did task action, completed: yes
+Apr 19 19:19:57 vps-c34d902b impostor[151376]: [19:19:57 INF] nias did task action, completed: yes
+Apr 19 19:19:57 vps-c34d902b impostor[151376]: [19:19:57 INF] Rocky did task action, completed: yes
+Apr 19 19:19:58 vps-c34d902b impostor[151376]: [19:19:58 INF] veeg did task action, completed: yes
+Apr 19 19:20:03 vps-c34d902b impostor[151376]: [19:20:03 INF] Dani did task action, completed: yes
+Apr 19 19:20:07 vps-c34d902b impostor[151376]: [19:20:07 INF] nias did task action, completed: yes
+Apr 19 19:20:11 vps-c34d902b impostor[151376]: [19:20:11 INF] veeg did task action, completed: yes
+Apr 19 19:20:19 vps-c34d902b impostor[151376]: [19:20:19 INF] Dani did task action, completed: yes
+Apr 19 19:20:27 vps-c34d902b impostor[151376]: [19:20:27 INF] nias did task action, completed: yes
+Apr 19 19:20:28 vps-c34d902b impostor[151376]: [19:20:28 INF] Afro killed
+Apr 19 19:20:30 vps-c34d902b impostor[151376]: [19:20:30 INF] Rocky did task action, completed: yes
+Apr 19 19:20:31 vps-c34d902b impostor[151376]: [19:20:31 INF] DrDuca did task action, completed: yes
+Apr 19 19:20:33 vps-c34d902b impostor[151376]: [19:20:33 INF] Dani did task action, completed: yes
+Apr 19 19:20:35 vps-c34d902b impostor[151376]: [19:20:35 INF] Rocky did task action, completed: yes
+Apr 19 19:20:43 vps-c34d902b impostor[151376]: [19:20:43 INF] Meeting Started.
+Apr 19 19:20:43 vps-c34d902b impostor[151376]: [19:20:43 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","day in the","Afro"]}
+Apr 19 19:20:43 vps-c34d902b impostor[151376]: [19:20:43 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","day in the","Afro"]}
+Apr 19 19:22:21 vps-c34d902b impostor[151376]: [19:22:21 INF] Meeting Ended.
+Apr 19 19:22:21 vps-c34d902b impostor[151376]: [19:22:21 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","Jay","day in the","Afro"]}
+Apr 19 19:22:21 vps-c34d902b impostor[151376]: [19:22:21 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"DeadPlayers":["sylvos","Jay","day in the","Afro"]}
+Apr 19 19:22:33 vps-c34d902b impostor[151376]: [19:22:33 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 19:22:33 vps-c34d902b impostor[151376]: [19:22:33 INF] Game has ended.
+Apr 19 19:22:33 vps-c34d902b impostor[151376]: [19:22:33 INF] {"EventName":"GameEnd","MatchID":1327,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"DeadPlayers":["sylvos","Jay","day in the","Afro"],"Impostors":["sylvos","Jay"],"Crewmates":["nias","veeg","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Result":0}
+Apr 19 19:22:33 vps-c34d902b impostor[151376]: [19:22:33 INF] Message sent: {"EventName":"GameEnd","MatchID":1327,"GameCode":"RLQXFG","Players":["nias","veeg","sylvos","Jay","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"PlayerColors":[7,6,9,15,14,4,17,8,3,0],"DeadPlayers":["sylvos","Jay","day in the","Afro"],"Impostors":["sylvos","Jay"],"Crewmates":["nias","veeg","DrDuca","day in the","Dani","Afro","Rocky","Fear"],"Result":0}
+Apr 19 19:22:35 vps-c34d902b impostor[151376]: [19:22:35 INF] RLQXFG - Player nias (527) is rejoining.
+Apr 19 19:22:35 vps-c34d902b impostor[151376]: [19:22:35 INF] RLQXFG - Player nias (527) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] RLQXFG - Player veeg (529) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] Applying settings for game: RLQXFG
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] Player  > spawned
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] Player  > spawned
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] RLQXFG - Player Jay (533) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] RLQXFG - Player Afro (550) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] RLQXFG - Player Fear (553) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] RLQXFG - Player Dani (548) is joining.
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:36 vps-c34d902b impostor[151376]: [19:22:36 INF] Player  > spawned
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] RLQXFG - Player Rocky (551) is joining.
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] Player  > spawned
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] RLQXFG - Player sylvos (532) is joining.
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] Player  > spawned
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] Player  > spawned
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:37 vps-c34d902b impostor[151376]: [19:22:37 INF] Player  > spawned
+Apr 19 19:22:38 vps-c34d902b impostor[151376]: [19:22:38 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:22:38 vps-c34d902b impostor[151376]: [19:22:38 INF] Player  > spawned
+Apr 19 19:22:38 vps-c34d902b impostor[151376]: [19:22:38 INF] RLQXFG - Player DrDuca (542) has left.
+Apr 19 19:22:38 vps-c34d902b impostor[151376]: [19:22:38 INF] Client 542 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:24:03 vps-c34d902b impostor[151376]: [19:24:03 INF] RLQXFG - Player day in the (554) is joining.
+Apr 19 19:24:04 vps-c34d902b impostor[151376]: [19:24:04 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:24:04 vps-c34d902b impostor[151376]: [19:24:04 INF] Player  > spawned
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 INF] RLQXFG - Player Fear (553) has left.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 INF] Client 553 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 WRN] Player veeg (529) tried to send DespawnFlag for 240 but was denied.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 WRN] Player Jay (533) tried to send DespawnFlag for 240 but was denied.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 WRN] Player Dani (548) tried to send DespawnFlag for 240 but was denied.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 WRN] Player day in the (554) tried to send DespawnFlag for 240 but was denied.
+Apr 19 19:24:49 vps-c34d902b impostor[151376]: [19:24:49 WRN] Player sylvos (532) tried to send DespawnFlag for 240 but was denied.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 INF] RLQXFG - Player Afro (550) has left.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 INF] Client 550 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 WRN] Player Jay (533) tried to send DespawnFlag for 237 but was denied.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 WRN] Player Dani (548) tried to send DespawnFlag for 237 but was denied.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 WRN] Player veeg (529) tried to send DespawnFlag for 237 but was denied.
+Apr 19 19:24:53 vps-c34d902b impostor[151376]: [19:24:53 WRN] Player day in the (554) tried to send DespawnFlag for 237 but was denied.
+Apr 19 19:25:18 vps-c34d902b impostor[151376]: [19:25:18 INF] RLQXFG - Player Rocky (551) has left.
+Apr 19 19:25:18 vps-c34d902b impostor[151376]: [19:25:18 INF] Client 551 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:25:18 vps-c34d902b impostor[151376]: [19:25:18 WRN] Player Jay (533) tried to send DespawnFlag for 243 but was denied.
+Apr 19 19:25:18 vps-c34d902b impostor[151376]: [19:25:18 WRN] Player veeg (529) tried to send DespawnFlag for 243 but was denied.
+Apr 19 19:25:18 vps-c34d902b impostor[151376]: [19:25:18 WRN] Player day in the (554) tried to send DespawnFlag for 243 but was denied.
+Apr 19 19:25:36 vps-c34d902b impostor[151376]: [19:25:36 INF] EJIOQD - Player Booya (505) has left.
+Apr 19 19:25:36 vps-c34d902b impostor[151376]: [19:25:36 INF] EJIOQD - Assigned Bandit (544) as new host.
+Apr 19 19:25:36 vps-c34d902b impostor[151376]: [19:25:36 INF] Client 505 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:25:49 vps-c34d902b impostor[151376]: [19:25:49 INF] RLQXFG - Player Fear (555) is joining.
+Apr 19 19:25:50 vps-c34d902b impostor[151376]: [19:25:50 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:25:50 vps-c34d902b impostor[151376]: [19:25:50 INF] Player  > spawned
+Apr 19 19:25:58 vps-c34d902b impostor[151376]: [19:25:58 INF] RLQXFG - Player Booya (556) is joining.
+Apr 19 19:25:58 vps-c34d902b impostor[151376]: [19:25:58 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:25:58 vps-c34d902b impostor[151376]: [19:25:58 INF] Player  > spawned
+Apr 19 19:26:23 vps-c34d902b impostor[151376]: [19:26:23 INF] RLQXFG - Player Rocky (557) is joining.
+Apr 19 19:26:24 vps-c34d902b impostor[151376]: [19:26:24 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:26:24 vps-c34d902b impostor[151376]: [19:26:24 INF] Player  > spawned
+Apr 19 19:27:23 vps-c34d902b impostor[151376]: [19:27:23 INF] RLQXFG - Player zak (558) is joining.
+Apr 19 19:27:24 vps-c34d902b impostor[151376]: [19:27:24 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:27:24 vps-c34d902b impostor[151376]: [19:27:24 INF] Player  > spawned
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 INF] RLQXFG - Player zak (558) has left.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 INF] Client 558 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player Jay (533) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player Dani (548) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player Fear (555) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player Rocky (557) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player Booya (556) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player veeg (529) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:31 vps-c34d902b impostor[151376]: [19:27:31 WRN] Player day in the (554) tried to send DespawnFlag for 261 but was denied.
+Apr 19 19:27:33 vps-c34d902b impostor[151376]: [19:27:33 INF] RLQXFG - Player zak (559) is joining.
+Apr 19 19:27:34 vps-c34d902b impostor[151376]: [19:27:34 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:27:34 vps-c34d902b impostor[151376]: [19:27:34 INF] Player  > spawned
+Apr 19 19:27:46 vps-c34d902b impostor[151376]: [19:27:46 INF] GameStartingEvent called in game: RLQXFG
+Apr 19 19:27:46 vps-c34d902b impostor[151376]: [19:27:46 INF] Applying settings for game: RLQXFG
+Apr 19 19:27:46 vps-c34d902b impostor[151376]: [19:27:46 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:27:50 vps-c34d902b impostor[151376]: [19:27:50 INF] Game is starting.
+Apr 19 19:27:50 vps-c34d902b impostor[151376]: [19:27:50 INF] {"EventName":"GameStart","MatchID":1328,"GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[0,2,3,16,7,6,9,15,17,4],"Impostors":["Fear","Jay"],"Crewmates":["Booya","Rocky","zak","nias","veeg","sylvos","Dani","day in the"]}
+Apr 19 19:27:50 vps-c34d902b impostor[151376]: [19:27:50 INF] Message sent: {"EventName":"GameStart","MatchID":1328,"GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[0,2,3,16,7,6,9,15,17,4],"Impostors":["Fear","Jay"],"Crewmates":["Booya","Rocky","zak","nias","veeg","sylvos","Dani","day in the"]}
+Apr 19 19:28:00 vps-c34d902b impostor[151376]: [19:28:00 INF] zak did task action, completed: yes
+Apr 19 19:28:01 vps-c34d902b impostor[151376]: [19:28:01 INF] Booya did task action, completed: yes
+Apr 19 19:28:02 vps-c34d902b impostor[151376]: [19:28:02 INF] sylvos did task action, completed: yes
+Apr 19 19:28:02 vps-c34d902b impostor[151376]: [19:28:02 INF] Dani did task action, completed: yes
+Apr 19 19:28:03 vps-c34d902b impostor[151376]: [19:28:03 INF] Rocky did task action, completed: yes
+Apr 19 19:28:05 vps-c34d902b impostor[151376]: [19:28:05 INF] nias did task action, completed: yes
+Apr 19 19:28:05 vps-c34d902b impostor[151376]: [19:28:05 INF] Booya did task action, completed: yes
+Apr 19 19:28:05 vps-c34d902b impostor[151376]: [19:28:05 INF] Dani did task action, completed: yes
+Apr 19 19:28:06 vps-c34d902b impostor[151376]: [19:28:06 INF] veeg did task action, completed: yes
+Apr 19 19:28:08 vps-c34d902b impostor[151376]: [19:28:08 INF] veeg did task action, completed: yes
+Apr 19 19:28:09 vps-c34d902b impostor[151376]: [19:28:09 INF] zak did task action, completed: yes
+Apr 19 19:28:17 vps-c34d902b impostor[151376]: [19:28:17 INF] nias did task action, completed: yes
+Apr 19 19:28:19 vps-c34d902b impostor[151376]: [19:28:19 INF] Meeting Started.
+Apr 19 19:28:19 vps-c34d902b impostor[151376]: [19:28:19 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:28:19 vps-c34d902b impostor[151376]: [19:28:19 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:29:43 vps-c34d902b impostor[151376]: [19:29:43 INF] GameTimerPlugin: Skip Majority.
+Apr 19 19:29:43 vps-c34d902b impostor[151376]: [19:29:43 INF] Meeting Ended.
+Apr 19 19:29:43 vps-c34d902b impostor[151376]: [19:29:43 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:29:43 vps-c34d902b impostor[151376]: [19:29:43 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:30:01 vps-c34d902b impostor[151376]: [19:30:01 INF] veeg did task action, completed: yes
+Apr 19 19:30:01 vps-c34d902b impostor[151376]: [19:30:01 INF] sylvos did task action, completed: yes
+Apr 19 19:30:02 vps-c34d902b impostor[151376]: [19:30:02 INF] day in the did task action, completed: yes
+Apr 19 19:30:06 vps-c34d902b impostor[151376]: [19:30:06 INF] veeg did task action, completed: yes
+Apr 19 19:30:06 vps-c34d902b impostor[151376]: [19:30:06 INF] Dani did task action, completed: yes
+Apr 19 19:30:11 vps-c34d902b impostor[151376]: [19:30:11 INF] Dani did task action, completed: yes
+Apr 19 19:30:14 vps-c34d902b impostor[151376]: [19:30:14 INF] sylvos did task action, completed: yes
+Apr 19 19:30:16 vps-c34d902b impostor[151376]: [19:30:16 INF] nias did task action, completed: yes
+Apr 19 19:30:18 vps-c34d902b impostor[151376]: [19:30:18 INF] day in the did task action, completed: yes
+Apr 19 19:30:18 vps-c34d902b impostor[151376]: [19:30:18 INF] veeg did task action, completed: yes
+Apr 19 19:30:22 vps-c34d902b impostor[151376]: [19:30:22 INF] day in the did task action, completed: yes
+Apr 19 19:30:22 vps-c34d902b impostor[151376]: [19:30:22 INF] nias did task action, completed: yes
+Apr 19 19:30:28 vps-c34d902b impostor[151376]: [19:30:28 INF] nias killed
+Apr 19 19:30:29 vps-c34d902b impostor[151376]: [19:30:29 INF] zak did task action, completed: yes
+Apr 19 19:30:30 vps-c34d902b impostor[151376]: [19:30:30 INF] zak killed
+Apr 19 19:30:30 vps-c34d902b impostor[151376]: [19:30:30 INF] Rocky did task action, completed: yes
+Apr 19 19:30:32 vps-c34d902b impostor[151376]: [19:30:32 INF] sylvos did task action, completed: yes
+Apr 19 19:30:51 vps-c34d902b impostor[151376]: [19:30:51 INF] zak did task action, completed: yes
+Apr 19 19:30:57 vps-c34d902b impostor[151376]: [19:30:57 INF] zak did task action, completed: yes
+Apr 19 19:30:57 vps-c34d902b impostor[151376]: [19:30:57 INF] day in the killed
+Apr 19 19:31:03 vps-c34d902b impostor[151376]: [19:31:03 INF] Meeting Started.
+Apr 19 19:31:03 vps-c34d902b impostor[151376]: [19:31:03 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["zak","nias","day in the"]}
+Apr 19 19:31:03 vps-c34d902b impostor[151376]: [19:31:03 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["zak","nias","day in the"]}
+Apr 19 19:33:28 vps-c34d902b impostor[151376]: [19:33:28 INF] Meeting Ended.
+Apr 19 19:33:28 vps-c34d902b impostor[151376]: [19:33:28 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Booya","zak","nias","day in the"]}
+Apr 19 19:33:28 vps-c34d902b impostor[151376]: [19:33:28 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Booya","zak","nias","day in the"]}
+Apr 19 19:33:45 vps-c34d902b impostor[151376]: [19:33:45 INF] Booya did task action, completed: yes
+Apr 19 19:33:46 vps-c34d902b impostor[151376]: [19:33:46 INF] zak did task action, completed: yes
+Apr 19 19:33:48 vps-c34d902b impostor[151376]: [19:33:48 INF] zak did task action, completed: yes
+Apr 19 19:33:52 vps-c34d902b impostor[151376]: [19:33:52 INF] zak did task action, completed: yes
+Apr 19 19:33:55 vps-c34d902b impostor[151376]: [19:33:55 INF] Booya did task action, completed: yes
+Apr 19 19:34:02 vps-c34d902b impostor[151376]: [19:34:02 INF] sylvos killed
+Apr 19 19:34:03 vps-c34d902b impostor[151376]: [19:34:03 INF] Dani killed
+Apr 19 19:34:03 vps-c34d902b impostor[151376]: [19:34:03 INF] System.Collections.Generic.List`1[System.String]
+Apr 19 19:34:03 vps-c34d902b impostor[151376]: [19:34:03 INF] Game has ended.
+Apr 19 19:34:03 vps-c34d902b impostor[151376]: [19:34:03 INF] {"EventName":"GameEnd","MatchID":1328,"GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[0,2,3,16,7,6,9,15,17,4],"DeadPlayers":["Booya","zak","nias","sylvos","Dani","day in the"],"Impostors":["Fear","Jay"],"Crewmates":["Booya","Rocky","zak","nias","veeg","sylvos","Dani","day in the"],"Result":3}
+Apr 19 19:34:03 vps-c34d902b impostor[151376]: [19:34:03 INF] Message sent: {"EventName":"GameEnd","MatchID":1328,"GameCode":"RLQXFG","Players":["Fear","Booya","Rocky","zak","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[0,2,3,16,7,6,9,15,17,4],"DeadPlayers":["Booya","zak","nias","sylvos","Dani","day in the"],"Impostors":["Fear","Jay"],"Crewmates":["Booya","Rocky","zak","nias","veeg","sylvos","Dani","day in the"],"Result":3}
+Apr 19 19:34:05 vps-c34d902b impostor[151376]: [19:34:05 INF] RLQXFG - Player zak (559) is rejoining.
+Apr 19 19:34:06 vps-c34d902b impostor[151376]: [19:34:06 INF] RLQXFG - Player Rocky (557) is rejoining.
+Apr 19 19:34:06 vps-c34d902b impostor[151376]: [19:34:06 INF] RLQXFG - Player Fear (555) is rejoining.
+Apr 19 19:34:06 vps-c34d902b impostor[151376]: [19:34:06 INF] RLQXFG - Player Jay (533) is rejoining.
+Apr 19 19:34:07 vps-c34d902b impostor[151376]: [19:34:07 INF] RLQXFG - Player day in the (554) is rejoining.
+Apr 19 19:34:08 vps-c34d902b impostor[151376]: [19:34:08 INF] RLQXFG - Player Booya (556) is rejoining.
+Apr 19 19:34:10 vps-c34d902b impostor[151376]: [19:34:10 INF] RLQXFG - Player veeg (529) is rejoining.
+Apr 19 19:34:13 vps-c34d902b impostor[151376]: [19:34:13 INF] RLQXFG - Player nias (527) is rejoining.
+Apr 19 19:34:13 vps-c34d902b impostor[151376]: [19:34:13 INF] RLQXFG - Player nias (527) is joining.
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Applying settings for game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] Player  > spawned
+Apr 19 19:34:14 vps-c34d902b impostor[151376]: [19:34:14 INF] RLQXFG - Player Dani (548) is joining.
+Apr 19 19:34:15 vps-c34d902b impostor[151376]: [19:34:15 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:15 vps-c34d902b impostor[151376]: [19:34:15 INF] Player  > spawned
+Apr 19 19:34:18 vps-c34d902b impostor[151376]: [19:34:18 INF] RLQXFG - Player Fear (555) has left.
+Apr 19 19:34:18 vps-c34d902b impostor[151376]: [19:34:18 INF] Client 555 disconnecting, reason: Reliable packet 734 (size=234) was not ack'd after 5052ms (6 resends)
+Apr 19 19:34:24 vps-c34d902b impostor[151376]: [19:34:24 INF] RLQXFG - Player sylvos (532) is joining.
+Apr 19 19:34:24 vps-c34d902b impostor[151376]: [19:34:24 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:34:24 vps-c34d902b impostor[151376]: [19:34:24 INF] Player  > spawned
+Apr 19 19:35:40 vps-c34d902b impostor[151376]: [19:35:40 INF] RLQXFG - Player Fear (560) is joining.
+Apr 19 19:35:41 vps-c34d902b impostor[151376]: [19:35:41 INF] PlayerSpawnedEvent called in game: RLQXFG
+Apr 19 19:35:41 vps-c34d902b impostor[151376]: [19:35:41 INF] Player  > spawned
+Apr 19 19:36:30 vps-c34d902b impostor[151376]: [19:36:30 INF] GameStartingEvent called in game: RLQXFG
+Apr 19 19:36:30 vps-c34d902b impostor[151376]: [19:36:30 INF] Applying settings for game: RLQXFG
+Apr 19 19:36:30 vps-c34d902b impostor[151376]: [19:36:30 INF] SyncingSettings for game: RLQXFG
+Apr 19 19:36:33 vps-c34d902b impostor[151376]: [19:36:33 INF] Game is starting.
+Apr 19 19:36:33 vps-c34d902b impostor[151376]: [19:36:33 INF] {"EventName":"GameStart","MatchID":1329,"GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[2,3,16,0,7,6,9,15,17,4],"Impostors":["zak","nias"],"Crewmates":["Booya","Rocky","Fear","veeg","sylvos","Jay","Dani","day in the"]}
+Apr 19 19:36:33 vps-c34d902b impostor[151376]: [19:36:33 INF] Message sent: {"EventName":"GameStart","MatchID":1329,"GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"PlayerColors":[2,3,16,0,7,6,9,15,17,4],"Impostors":["zak","nias"],"Crewmates":["Booya","Rocky","Fear","veeg","sylvos","Jay","Dani","day in the"]}
+Apr 19 19:36:45 vps-c34d902b impostor[151376]: [19:36:45 INF] Dani did task action, completed: yes
+Apr 19 19:36:46 vps-c34d902b impostor[151376]: [19:36:46 INF] Fear did task action, completed: yes
+Apr 19 19:36:49 vps-c34d902b impostor[151376]: [19:36:49 INF] Jay did task action, completed: yes
+Apr 19 19:36:57 vps-c34d902b impostor[151376]: [19:36:57 INF] veeg did task action, completed: yes
+Apr 19 19:36:57 vps-c34d902b impostor[151376]: [19:36:57 INF] sylvos did task action, completed: yes
+Apr 19 19:37:01 vps-c34d902b impostor[151376]: [19:37:01 INF] sylvos did task action, completed: yes
+Apr 19 19:37:01 vps-c34d902b impostor[151376]: [19:37:01 INF] Meeting Started.
+Apr 19 19:37:01 vps-c34d902b impostor[151376]: [19:37:01 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:37:01 vps-c34d902b impostor[151376]: [19:37:01 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:38:05 vps-c34d902b impostor[151376]: [19:38:05 INF] GameTimerPlugin: Skip Majority.
+Apr 19 19:38:05 vps-c34d902b impostor[151376]: [19:38:05 INF] Meeting Ended.
+Apr 19 19:38:05 vps-c34d902b impostor[151376]: [19:38:05 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:38:05 vps-c34d902b impostor[151376]: [19:38:05 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:38:28 vps-c34d902b impostor[151376]: [19:38:28 INF] Jay did task action, completed: yes
+Apr 19 19:38:30 vps-c34d902b impostor[151376]: [19:38:30 INF] day in the did task action, completed: yes
+Apr 19 19:38:35 vps-c34d902b impostor[151376]: [19:38:35 INF] sylvos did task action, completed: yes
+Apr 19 19:38:39 vps-c34d902b impostor[151376]: [19:38:39 INF] Jay did task action, completed: yes
+Apr 19 19:38:40 vps-c34d902b impostor[151376]: [19:38:40 INF] veeg did task action, completed: yes
+Apr 19 19:38:41 vps-c34d902b impostor[151376]: [19:38:41 INF] Rocky did task action, completed: yes
+Apr 19 19:38:42 vps-c34d902b impostor[151376]: [19:38:42 INF] Fear did task action, completed: yes
+Apr 19 19:38:47 vps-c34d902b impostor[151376]: [19:38:47 INF] Jay did task action, completed: yes
+Apr 19 19:38:50 vps-c34d902b impostor[151376]: [19:38:50 INF] Booya did task action, completed: yes
+Apr 19 19:39:00 vps-c34d902b impostor[151376]: [19:39:00 INF] Fear did task action, completed: yes
+Apr 19 19:39:00 vps-c34d902b impostor[151376]: [19:39:00 INF] Dani did task action, completed: yes
+Apr 19 19:39:08 vps-c34d902b impostor[151376]: [19:39:08 INF] sylvos did task action, completed: yes
+Apr 19 19:39:11 vps-c34d902b impostor[151376]: [19:39:11 INF] Booya did task action, completed: yes
+Apr 19 19:39:15 vps-c34d902b impostor[151376]: [19:39:15 INF] veeg did task action, completed: yes
+Apr 19 19:39:16 vps-c34d902b impostor[151376]: [19:39:16 INF] Fear did task action, completed: yes
+Apr 19 19:39:16 vps-c34d902b impostor[151376]: [19:39:16 INF] Dani did task action, completed: yes
+Apr 19 19:39:21 vps-c34d902b impostor[151376]: [19:39:21 INF] Fear did task action, completed: yes
+Apr 19 19:39:24 vps-c34d902b impostor[151376]: [19:39:24 INF] Jay did task action, completed: yes
+Apr 19 19:39:27 vps-c34d902b impostor[151376]: [19:39:27 INF] Booya did task action, completed: yes
+Apr 19 19:39:28 vps-c34d902b impostor[151376]: [19:39:28 INF] sylvos did task action, completed: yes
+Apr 19 19:39:36 vps-c34d902b impostor[151376]: [19:39:36 INF] sylvos did task action, completed: yes
+Apr 19 19:39:39 vps-c34d902b impostor[151376]: [19:39:39 INF] Rocky did task action, completed: yes
+Apr 19 19:39:43 vps-c34d902b impostor[151376]: [19:39:43 INF] Booya did task action, completed: yes
+Apr 19 19:39:52 vps-c34d902b impostor[151376]: [19:39:52 INF] Fear did task action, completed: yes
+Apr 19 19:39:52 vps-c34d902b impostor[151376]: [19:39:52 INF] Booya did task action, completed: yes
+Apr 19 19:39:57 vps-c34d902b impostor[151376]: [19:39:57 INF] Meeting Started.
+Apr 19 19:39:57 vps-c34d902b impostor[151376]: [19:39:57 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:39:57 vps-c34d902b impostor[151376]: [19:39:57 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":[]}
+Apr 19 19:39:57 vps-c34d902b impostor[151376]: [19:39:57 INF] Fear did task action, completed: yes
+Apr 19 19:40:48 vps-c34d902b impostor[151376]: [19:40:48 INF] Meeting Ended.
+Apr 19 19:40:48 vps-c34d902b impostor[151376]: [19:40:48 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky"]}
+Apr 19 19:40:48 vps-c34d902b impostor[151376]: [19:40:48 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky"]}
+Apr 19 19:41:10 vps-c34d902b impostor[151376]: [19:41:10 INF] Rocky did task action, completed: yes
+Apr 19 19:41:13 vps-c34d902b impostor[151376]: [19:41:13 INF] Dani did task action, completed: yes
+Apr 19 19:41:13 vps-c34d902b impostor[151376]: [19:41:13 INF] sylvos did task action, completed: yes
+Apr 19 19:41:14 vps-c34d902b impostor[151376]: [19:41:14 INF] Jay did task action, completed: yes
+Apr 19 19:41:17 vps-c34d902b impostor[151376]: [19:41:17 INF] Rocky did task action, completed: yes
+Apr 19 19:41:22 vps-c34d902b impostor[151376]: [19:41:22 INF] Booya did task action, completed: yes
+Apr 19 19:41:24 vps-c34d902b impostor[151376]: [19:41:24 INF] Dani did task action, completed: yes
+Apr 19 19:41:24 vps-c34d902b impostor[151376]: [19:41:24 INF] day in the did task action, completed: yes
+Apr 19 19:41:27 vps-c34d902b impostor[151376]: [19:41:27 INF] Booya did task action, completed: yes
+Apr 19 19:41:30 vps-c34d902b impostor[151376]: [19:41:30 INF] sylvos did task action, completed: yes
+Apr 19 19:41:33 vps-c34d902b impostor[151376]: [19:41:33 INF] Rocky did task action, completed: yes
+Apr 19 19:41:35 vps-c34d902b impostor[151376]: [19:41:35 INF] Jay did task action, completed: yes
+Apr 19 19:41:36 vps-c34d902b impostor[151376]: [19:41:36 INF] Booya did task action, completed: yes
+Apr 19 19:41:37 vps-c34d902b impostor[151376]: [19:41:37 INF] Dani did task action, completed: yes
+Apr 19 19:41:46 vps-c34d902b impostor[151376]: [19:41:46 INF] day in the did task action, completed: yes
+Apr 19 19:41:46 vps-c34d902b impostor[151376]: [19:41:46 INF] sylvos did task action, completed: yes
+Apr 19 19:41:49 vps-c34d902b impostor[151376]: [19:41:49 INF] Jay did task action, completed: yes
+Apr 19 19:41:50 vps-c34d902b impostor[151376]: [19:41:50 INF] Dani did task action, completed: yes
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 INF] RLQXFG - Player Rocky (557) has left.
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 INF] Client 557 disconnecting, reason: Reliable packet 1389 (size=17) was not ack'd after 5035ms (6 resends)
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 WRN] Player veeg (529) tried to send DespawnFlag for 292 but was denied.
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 WRN] Player Jay (533) tried to send DespawnFlag for 292 but was denied.
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 WRN] Player Dani (548) tried to send DespawnFlag for 292 but was denied.
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 WRN] Player Booya (556) tried to send DespawnFlag for 292 but was denied.
+Apr 19 19:41:54 vps-c34d902b impostor[151376]: [19:41:54 WRN] Player day in the (554) tried to send DespawnFlag for 292 but was denied.
+Apr 19 19:41:56 vps-c34d902b impostor[151376]: [19:41:56 INF] Dani did task action, completed: yes
+Apr 19 19:41:57 vps-c34d902b impostor[151376]: [19:41:57 INF] day in the did task action, completed: yes
+Apr 19 19:42:02 vps-c34d902b impostor[151376]: [19:42:02 INF] day in the did task action, completed: yes
+Apr 19 19:42:09 vps-c34d902b impostor[151376]: [19:42:09 INF] Fear killed
+Apr 19 19:42:15 vps-c34d902b impostor[151376]: [19:42:15 INF] Dani did task action, completed: yes
+Apr 19 19:42:15 vps-c34d902b impostor[151376]: [19:42:15 INF] veeg did task action, completed: yes
+Apr 19 19:42:16 vps-c34d902b impostor[151376]: [19:42:16 INF] Booya did task action, completed: yes
+Apr 19 19:42:16 vps-c34d902b impostor[151376]: [19:42:16 INF] Fear did task action, completed: yes
+Apr 19 19:42:18 vps-c34d902b impostor[151376]: [19:42:18 INF] sylvos did task action, completed: yes
+Apr 19 19:42:18 vps-c34d902b impostor[151376]: [19:42:18 INF] Jay did task action, completed: yes
+Apr 19 19:42:27 vps-c34d902b impostor[151376]: [19:42:27 INF] day in the did task action, completed: yes
+Apr 19 19:42:33 vps-c34d902b impostor[151376]: [19:42:33 INF] Dani did task action, completed: yes
+Apr 19 19:42:37 vps-c34d902b impostor[151376]: [19:42:37 INF] Fear did task action, completed: yes
+Apr 19 19:42:48 vps-c34d902b impostor[151376]: [19:42:48 INF] day in the killed
+Apr 19 19:42:52 vps-c34d902b impostor[151376]: [19:42:52 INF] Meeting Started.
+Apr 19 19:42:52 vps-c34d902b impostor[151376]: [19:42:52 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:42:52 vps-c34d902b impostor[151376]: [19:42:52 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:45:11 vps-c34d902b impostor[151376]: [19:45:11 INF] GameTimerPlugin: Skip Majority.
+Apr 19 19:45:11 vps-c34d902b impostor[151376]: [19:45:11 INF] Meeting Ended.
+Apr 19 19:45:11 vps-c34d902b impostor[151376]: [19:45:11 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:45:11 vps-c34d902b impostor[151376]: [19:45:11 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:45:33 vps-c34d902b impostor[151376]: [19:45:33 INF] Fear did task action, completed: yes
+Apr 19 19:45:43 vps-c34d902b impostor[151376]: [19:45:43 INF] veeg did task action, completed: yes
+Apr 19 19:46:02 vps-c34d902b impostor[151376]: [19:46:02 INF] Meeting Started.
+Apr 19 19:46:02 vps-c34d902b impostor[151376]: [19:46:02 INF] {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:46:02 vps-c34d902b impostor[151376]: [19:46:02 INF] Message sent: {"EventName":"MeetingStart","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","day in the"]}
+Apr 19 19:48:27 vps-c34d902b impostor[151376]: [19:48:27 INF] Meeting Ended.
+Apr 19 19:48:27 vps-c34d902b impostor[151376]: [19:48:27 INF] {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","sylvos","day in the"]}
+Apr 19 19:48:27 vps-c34d902b impostor[151376]: [19:48:27 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"RLQXFG","Players":["Booya","Rocky","zak","Fear","nias","veeg","sylvos","Jay","Dani","day in the"],"DeadPlayers":["Rocky","Fear","sylvos","day in the"]}
+Apr 19 19:48:30 vps-c34d902b impostor[151376]: [19:48:30 INF] RLQXFG - Player nias (527) has left.
+Apr 19 19:48:30 vps-c34d902b impostor[151376]: [19:48:30 INF] RLQXFG - Assigned Booya (556) as new host.
+Apr 19 19:48:30 vps-c34d902b impostor[151376]: [19:48:30 INF] Client 527 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:30 vps-c34d902b impostor[151376]: [19:48:30 INF] EJIOQD - Player Bandit (544) has left.
+Apr 19 19:48:30 vps-c34d902b impostor[151376]: [19:48:30 INF] Client 544 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player sylvos (532) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player day in the (554) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 554 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 532 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player Jay (533) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player Fear (560) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 533 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 560 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player zak (559) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player Dani (548) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 559 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 548 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] RLQXFG - Player veeg (529) has left.
+Apr 19 19:48:32 vps-c34d902b impostor[151376]: [19:48:32 INF] Client 529 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:48:35 vps-c34d902b impostor[151376]: [19:48:35 INF] RLQXFG - Player Booya (556) has left.
+Apr 19 19:48:35 vps-c34d902b impostor[151376]: [19:48:35 INF] Client 556 disconnecting, reason: Reliable packet 2079 (size=19) was not ack'd after 5008ms (6 resends)
+Apr 19 19:51:28 vps-c34d902b impostor[151376]: [19:51:28 INF] QKUBDF - Player Fear (561) is joining.
+Apr 19 19:51:29 vps-c34d902b impostor[151376]: [19:51:29 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:51:29 vps-c34d902b impostor[151376]: [19:51:29 INF] Applying settings for game: QKUBDF
+Apr 19 19:51:29 vps-c34d902b impostor[151376]: [19:51:29 INF] SyncingSettings for game: QKUBDF
+Apr 19 19:51:29 vps-c34d902b impostor[151376]: [19:51:29 INF] Player  > spawned
+Apr 19 19:51:49 vps-c34d902b impostor[151376]: [19:51:49 INF] QKUBDF - Player zak (562) is joining.
+Apr 19 19:51:50 vps-c34d902b impostor[151376]: [19:51:50 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:51:50 vps-c34d902b impostor[151376]: [19:51:50 INF] Player  > spawned
+Apr 19 19:51:51 vps-c34d902b impostor[151376]: [19:51:51 INF] QKUBDF - Player Rocky (563) is joining.
+Apr 19 19:51:52 vps-c34d902b impostor[151376]: [19:51:52 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:51:52 vps-c34d902b impostor[151376]: [19:51:52 INF] Player  > spawned
+Apr 19 19:52:08 vps-c34d902b impostor[151376]: [19:52:08 INF] QKUBDF - Player day in the (564) is joining.
+Apr 19 19:52:11 vps-c34d902b impostor[151376]: [19:52:11 INF] QKUBDF - Player 564 spawn timed out, kicking.
+Apr 19 19:52:11 vps-c34d902b impostor[151376]: [19:52:11 INF] QKUBDF - Player 564 has left.
+Apr 19 19:52:11 vps-c34d902b impostor[151376]: [19:52:11 INF] QKUBDF - Player day in the (564) has left.
+Apr 19 19:52:11 vps-c34d902b impostor[151376]: [19:52:11 INF] Client 564 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:52:13 vps-c34d902b impostor[151376]: [19:52:13 INF] QKUBDF - Player Fear (561) has left.
+Apr 19 19:52:13 vps-c34d902b impostor[151376]: [19:52:13 INF] QKUBDF - Assigned zak (562) as new host.
+Apr 19 19:52:13 vps-c34d902b impostor[151376]: [19:52:13 INF] Client 561 disconnecting, reason: Reliable packet 39 (size=44) was not ack'd after 5021ms (6 resends)
+Apr 19 19:52:13 vps-c34d902b impostor[151376]: [19:52:13 WRN] Player Rocky (563) tried to send DespawnFlag for 4 but was denied.
+Apr 19 19:52:16 vps-c34d902b impostor[151376]: [19:52:16 INF] QKUBDF - Player zak (562) has left.
+Apr 19 19:52:16 vps-c34d902b impostor[151376]: [19:52:16 INF] QKUBDF - Assigned Rocky (563) as new host.
+Apr 19 19:52:16 vps-c34d902b impostor[151376]: [19:52:16 INF] Client 562 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:52:18 vps-c34d902b impostor[151376]: [19:52:18 INF] QKUBDF - Player veeg (565) is joining.
+Apr 19 19:52:19 vps-c34d902b impostor[151376]: [19:52:19 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:52:19 vps-c34d902b impostor[151376]: [19:52:19 INF] Player  > spawned
+Apr 19 19:52:22 vps-c34d902b impostor[151376]: [19:52:22 INF] QKUBDF - Player Rocky (563) has left.
+Apr 19 19:52:22 vps-c34d902b impostor[151376]: [19:52:22 INF] QKUBDF - Assigned veeg (565) as new host.
+Apr 19 19:52:22 vps-c34d902b impostor[151376]: [19:52:22 INF] Client 563 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:52:46 vps-c34d902b impostor[151376]: [19:52:46 INF] QKUBDF - Player zak (566) is joining.
+Apr 19 19:52:46 vps-c34d902b impostor[151376]: [19:52:46 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:52:46 vps-c34d902b impostor[151376]: [19:52:46 INF] Player  > spawned
+Apr 19 19:53:10 vps-c34d902b impostor[151376]: [19:53:10 INF] QKUBDF - Player Fear (567) is joining.
+Apr 19 19:53:11 vps-c34d902b impostor[151376]: [19:53:11 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:53:11 vps-c34d902b impostor[151376]: [19:53:11 INF] Player  > spawned
+Apr 19 19:53:14 vps-c34d902b impostor[151376]: [19:53:14 INF] QKUBDF - Player Rocky (568) is joining.
+Apr 19 19:53:14 vps-c34d902b impostor[151376]: [19:53:14 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:53:14 vps-c34d902b impostor[151376]: [19:53:14 INF] Player  > spawned
+Apr 19 19:53:28 vps-c34d902b impostor[151376]: [19:53:28 INF] QKUBDF - Player Fear (567) has left.
+Apr 19 19:53:28 vps-c34d902b impostor[151376]: [19:53:28 INF] Client 567 disconnecting, reason: Sent 6 pings that remote has not responded to.
+Apr 19 19:53:28 vps-c34d902b impostor[151376]: [19:53:28 WRN] Player zak (566) tried to send DespawnFlag for 20 but was denied.
+Apr 19 19:53:28 vps-c34d902b impostor[151376]: [19:53:28 WRN] Player Rocky (568) tried to send DespawnFlag for 20 but was denied.
+Apr 19 19:53:47 vps-c34d902b impostor[151376]: [19:53:47 INF] QKUBDF - Player Fear (569) is joining.
+Apr 19 19:53:48 vps-c34d902b impostor[151376]: [19:53:48 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:53:48 vps-c34d902b impostor[151376]: [19:53:48 INF] Player  > spawned
+Apr 19 19:53:57 vps-c34d902b impostor[151376]: [19:53:57 INF] QKUBDF - Player G1ovanni (570) is joining.
+Apr 19 19:53:58 vps-c34d902b impostor[151376]: [19:53:58 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:53:58 vps-c34d902b impostor[151376]: [19:53:58 INF] Player  > spawned
+Apr 19 19:54:05 vps-c34d902b impostor[151376]: [19:54:05 INF] QKUBDF - Player day in the (571) is joining.
+Apr 19 19:54:06 vps-c34d902b impostor[151376]: [19:54:06 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:54:06 vps-c34d902b impostor[151376]: [19:54:06 INF] Player  > spawned
+Apr 19 19:54:23 vps-c34d902b impostor[151376]: [19:54:23 INF] QKUBDF - Player Dani (572) is joining.
+Apr 19 19:54:24 vps-c34d902b impostor[151376]: [19:54:24 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:54:24 vps-c34d902b impostor[151376]: [19:54:24 INF] Player  > spawned
+Apr 19 19:54:28 vps-c34d902b impostor[151376]: [19:54:28 INF] QKUBDF - Player sylvos (573) is joining.
+Apr 19 19:54:28 vps-c34d902b impostor[151376]: [19:54:28 INF] QKUBDF - Player Fear (569) has left.
+Apr 19 19:54:28 vps-c34d902b impostor[151376]: [19:54:28 INF] Client 569 disconnecting, reason: Reliable packet 49 (size=38) was not ack'd after 5071ms (6 resends)
+Apr 19 19:54:29 vps-c34d902b impostor[151376]: [19:54:29 INF] PlayerSpawnedEvent called in game: QKUBDF
+Apr 19 19:54:29 vps-c34d902b impostor[151376]: [19:54:29 INF] Player  > spawned
+Apr 19 19:54:33 vps-c34d902b impostor[151376]: [19:54:33 INF] GameTimerPlugin: MURDER TIME!
+Apr 19 19:54:33 vps-c34d902b impostor[151376]: [19:54:33 INF] number of imps: 0
+Apr 19 19:54:33 vps-c34d902b impostor[151376]: [19:54:33 INF] number of crew: 1
+Apr 19 19:54:33 vps-c34d902b impostor[151376]: Unhandled exception. System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at System.Collections.Generic.List`1.get_Item(Int32 index)
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at GameTimerPlugin.TimerPlugin.skillIssue(GameData gameData) in G:\crewmate-ranked-server\GameTimer\GameTimerPlugin\TimerPlugin.cs:line 209
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_1(Object state)
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at System.Threading.QueueUserWorkItemCallbackDefaultContext.Execute()
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at System.Threading.ThreadPoolWorkQueue.Dispatch()
+Apr 19 19:54:33 vps-c34d902b impostor[151376]:    at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+Apr 19 19:54:33 vps-c34d902b systemd[1]: impostor.service: Main process exited, code=killed, status=6/ABRT
+Apr 19 19:54:33 vps-c34d902b systemd[1]: impostor.service: Failed with result 'signal'.
+Apr 19 19:54:33 vps-c34d902b systemd[1]: impostor.service: Consumed 30min 46.620s CPU time.
+Apr 19 19:54:43 vps-c34d902b systemd[1]: impostor.service: Scheduled restart job, restart counter is at 1.
+Apr 19 19:54:43 vps-c34d902b systemd[1]: Stopped impostor.service - Impostor private Among Us server - https://github.com/Impostor/Impostor.
+Apr 19 19:54:43 vps-c34d902b systemd[1]: impostor.service: Consumed 30min 46.620s CPU time.
+Apr 19 19:54:43 vps-c34d902b systemd[1]: Started impostor.service - Impostor private Among Us server - https://github.com/Impostor/Impostor.
+Apr 19 19:54:43 vps-c34d902b impostor[209348]: [19:54:43 INF] Starting Impostor v1.9.1+7a49d2d91753c7e4ab89c2dc77d91027f1a10164
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Matchmaker is listening on 0.0.0.0:22023, the public server ip is 51.161.34.48:22023.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 WRN] Your HTTP server is exposed to the public internet, we recommend setting up a reverse proxy and enabling HTTPS
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 WRN] See https://github.com/Impostor/Impostor/blob/master/docs/Http-server.md for instructions
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Loading plugins.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin xer.ImpostorChatPlugin ImpostorChatPlugin (2.0+ae5db303f44340e900ae23951c7294de4e897397) by vex.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] ImpostorChatPlugin enabled!
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin xsoul.GameTimerPlugin GameTimerPlugin (2.0+5a7dfdb2c6a005f4cb95829c7cbbf5647848267a) by vex.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] GameTimerPlugin enabled!
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin vex.LockedGameSettingsPlugin LockedGameSettingsPlugin (2.0+91f1dadc04ab3d5e67c5357aae6f72aa22074bae) by vex.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Loaded options from /home/impostor/config/lobby.json
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Loaded rolevalues from /home/impostor/config/roles.json
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin xer.auc.matchlog MatchLog (1.0.0+19489675f0cdb430f5f860623a0c1dd7a255ff2d) by MatchLog.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] MatchLog 1 enabled!
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin dixter.auc.discordbot DiscordBot (1.0.0) by Aiden.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Discord Bot connection is being enabled.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Enabling plugin vex.ChatAnnouncePlugin ChatAnnouncePlugin (2.0+85779c2f15dee80429407d0f59afc859f19b20ee) by vex.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] ChatAnnouncePlugin is enabled.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Loaded 6 plugins.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Now listening on: http://0.0.0.0:22023
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Application started. Press Ctrl+C to shut down.
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Hosting environment: Production
+Apr 19 19:54:44 vps-c34d902b impostor[209348]: [19:54:44 INF] Content root path: /home/impostor
+Apr 19 19:54:51 vps-c34d902b impostor[209348]: [19:54:51 INF] GLESZK - Player nias (1) is joining.
+Apr 19 19:54:51 vps-c34d902b impostor[209348]: [19:54:51 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:54:51 vps-c34d902b impostor[209348]: [19:54:51 INF] Applying settings for game: GLESZK
+Apr 19 19:54:51 vps-c34d902b impostor[209348]: [19:54:51 INF] SyncingSettings for game: GLESZK
+Apr 19 19:54:51 vps-c34d902b impostor[209348]: [19:54:51 INF] Player  > spawned
+Apr 19 19:55:06 vps-c34d902b impostor[209348]: [19:55:06 INF] GLESZK - Player sylvos (2) is joining.
+Apr 19 19:55:06 vps-c34d902b impostor[209348]: [19:55:06 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:06 vps-c34d902b impostor[209348]: [19:55:06 INF] Player  > spawned
+Apr 19 19:55:07 vps-c34d902b impostor[209348]: [19:55:07 INF] GLESZK - Player zak (3) is joining.
+Apr 19 19:55:07 vps-c34d902b impostor[209348]: [19:55:07 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:07 vps-c34d902b impostor[209348]: [19:55:07 INF] Player  > spawned
+Apr 19 19:55:14 vps-c34d902b impostor[209348]: [19:55:14 INF] GLESZK - Player veeg (4) is joining.
+Apr 19 19:55:15 vps-c34d902b impostor[209348]: [19:55:15 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:15 vps-c34d902b impostor[209348]: [19:55:15 INF] Player  > spawned
+Apr 19 19:55:16 vps-c34d902b impostor[209348]: [19:55:16 INF] GLESZK - Player Dani (5) is joining.
+Apr 19 19:55:17 vps-c34d902b impostor[209348]: [19:55:17 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:17 vps-c34d902b impostor[209348]: [19:55:17 INF] Player  > spawned
+Apr 19 19:55:35 vps-c34d902b impostor[209348]: [19:55:35 INF] GLESZK - Player Jay (6) is joining.
+Apr 19 19:55:35 vps-c34d902b impostor[209348]: [19:55:35 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:35 vps-c34d902b impostor[209348]: [19:55:35 INF] Player  > spawned
+Apr 19 19:55:49 vps-c34d902b impostor[209348]: [19:55:49 INF] GLESZK - Player G1ovanni (7) is joining.
+Apr 19 19:55:49 vps-c34d902b impostor[209348]: [19:55:49 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:55:49 vps-c34d902b impostor[209348]: [19:55:49 INF] Player  > spawned
+Apr 19 19:56:50 vps-c34d902b impostor[209348]: [19:56:50 INF] GLESZK - Player day in the (8) is joining.
+Apr 19 19:56:51 vps-c34d902b impostor[209348]: [19:56:51 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:56:51 vps-c34d902b impostor[209348]: [19:56:51 INF] Player  > spawned
+Apr 19 19:56:59 vps-c34d902b impostor[209348]: [19:56:59 INF] GLESZK - Player Fear (9) is joining.
+Apr 19 19:57:00 vps-c34d902b impostor[209348]: [19:57:00 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:57:00 vps-c34d902b impostor[209348]: [19:57:00 INF] Player  > spawned
+Apr 19 19:58:26 vps-c34d902b impostor[209348]: [19:58:26 INF] GLESZK - Player Rocky (10) is joining.
+Apr 19 19:58:27 vps-c34d902b impostor[209348]: [19:58:27 INF] PlayerSpawnedEvent called in game: GLESZK
+Apr 19 19:58:27 vps-c34d902b impostor[209348]: [19:58:27 INF] Player  > spawned
+Apr 19 19:58:34 vps-c34d902b impostor[209348]: [19:58:34 INF] GameStartingEvent called in game: GLESZK
+Apr 19 19:58:34 vps-c34d902b impostor[209348]: [19:58:34 INF] Applying settings for game: GLESZK
+Apr 19 19:58:34 vps-c34d902b impostor[209348]: [19:58:34 INF] SyncingSettings for game: GLESZK
+Apr 19 19:58:38 vps-c34d902b impostor[209348]: [19:58:38 INF] Game is starting.
+Apr 19 19:58:38 vps-c34d902b impostor[209348]: [19:58:38 INF] {"EventName":"GameStart","MatchID":1329,"GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"PlayerColors":[7,9,16,6,17,15,14,4,0,3],"Impostors":["nias","Jay"],"Crewmates":["sylvos","zak","veeg","Dani","G1ovanni","day in the","Fear","Rocky"]}
+Apr 19 19:58:38 vps-c34d902b impostor[209348]: [19:58:38 INF] Message sent: {"EventName":"GameStart","MatchID":1329,"GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"PlayerColors":[7,9,16,6,17,15,14,4,0,3],"Impostors":["nias","Jay"],"Crewmates":["sylvos","zak","veeg","Dani","G1ovanni","day in the","Fear","Rocky"]}
+Apr 19 19:58:51 vps-c34d902b impostor[209348]: [19:58:51 INF] G1ovanni did task action, completed: yes
+Apr 19 19:58:52 vps-c34d902b impostor[209348]: [19:58:52 INF] Dani did task action, completed: yes
+Apr 19 19:58:52 vps-c34d902b impostor[209348]: [19:58:52 INF] sylvos did task action, completed: yes
+Apr 19 19:58:53 vps-c34d902b impostor[209348]: [19:58:53 INF] zak did task action, completed: yes
+Apr 19 19:59:01 vps-c34d902b impostor[209348]: [19:59:01 INF] Rocky did task action, completed: yes
+Apr 19 19:59:16 vps-c34d902b impostor[209348]: [19:59:16 INF] Rocky did task action, completed: yes
+Apr 19 19:59:18 vps-c34d902b impostor[209348]: [19:59:18 INF] Rocky did task action, completed: yes
+Apr 19 19:59:18 vps-c34d902b impostor[209348]: [19:59:18 INF] sylvos did task action, completed: yes
+Apr 19 19:59:19 vps-c34d902b impostor[209348]: [19:59:19 INF] Fear did task action, completed: yes
+Apr 19 19:59:22 vps-c34d902b impostor[209348]: [19:59:22 INF] Rocky killed
+Apr 19 19:59:25 vps-c34d902b impostor[209348]: [19:59:25 INF] Meeting Started.
+Apr 19 19:59:25 vps-c34d902b impostor[209348]: [19:59:25 INF] {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Rocky"]}
+Apr 19 19:59:25 vps-c34d902b impostor[209348]: [19:59:25 INF] Message sent: {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Rocky"]}
+Apr 19 19:59:29 vps-c34d902b impostor[209348]: [19:59:29 INF] GLESZK - Player Rocky (10) has left.
+Apr 19 19:59:29 vps-c34d902b impostor[209348]: [19:59:29 INF] Client 10 disconnecting, reason: The remote sent a disconnect request
+Apr 19 19:59:29 vps-c34d902b impostor[209348]: [19:59:29 WRN] Player veeg (4) tried to send DespawnFlag for 32 but was denied.
+Apr 19 19:59:29 vps-c34d902b impostor[209348]: [19:59:29 WRN] Player Jay (6) tried to send DespawnFlag for 32 but was denied.
+Apr 19 19:59:29 vps-c34d902b impostor[209348]: [19:59:29 WRN] Player Dani (5) tried to send DespawnFlag for 32 but was denied.
+Apr 19 20:01:47 vps-c34d902b impostor[209348]: [20:01:47 INF] Meeting Ended.
+Apr 19 20:01:47 vps-c34d902b impostor[209348]: [20:01:47 INF] {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:01:47 vps-c34d902b impostor[209348]: [20:01:47 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:02:06 vps-c34d902b impostor[209348]: [20:02:06 INF] sylvos did task action, completed: yes
+Apr 19 20:02:07 vps-c34d902b impostor[209348]: [20:02:07 INF] G1ovanni did task action, completed: yes
+Apr 19 20:02:07 vps-c34d902b impostor[209348]: [20:02:07 INF] veeg did task action, completed: yes
+Apr 19 20:02:08 vps-c34d902b impostor[209348]: [20:02:08 INF] Fear did task action, completed: yes
+Apr 19 20:02:09 vps-c34d902b impostor[209348]: [20:02:09 INF] sylvos did task action, completed: yes
+Apr 19 20:02:10 vps-c34d902b impostor[209348]: [20:02:10 INF] day in the did task action, completed: yes
+Apr 19 20:02:10 vps-c34d902b impostor[209348]: [20:02:10 INF] Fear did task action, completed: yes
+Apr 19 20:02:11 vps-c34d902b impostor[209348]: [20:02:11 INF] G1ovanni did task action, completed: yes
+Apr 19 20:02:11 vps-c34d902b impostor[209348]: [20:02:11 INF] veeg did task action, completed: yes
+Apr 19 20:02:12 vps-c34d902b impostor[209348]: [20:02:12 INF] day in the did task action, completed: yes
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 INF] GLESZK - Player Fear (9) has left.
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 INF] Client 9 disconnecting, reason: The remote sent a disconnect request
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 WRN] Player veeg (4) tried to send DespawnFlag for 29 but was denied.
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 WRN] Player Jay (6) tried to send DespawnFlag for 29 but was denied.
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 WRN] Player zak (3) tried to send DespawnFlag for 29 but was denied.
+Apr 19 20:02:14 vps-c34d902b impostor[209348]: [20:02:14 WRN] Player G1ovanni (7) tried to send DespawnFlag for 29 but was denied.
+Apr 19 20:02:16 vps-c34d902b impostor[209348]: [20:02:16 INF] zak did task action, completed: yes
+Apr 19 20:02:19 vps-c34d902b impostor[209348]: [20:02:19 INF] zak did task action, completed: yes
+Apr 19 20:02:21 vps-c34d902b impostor[209348]: [20:02:21 INF] Dani did task action, completed: yes
+Apr 19 20:02:22 vps-c34d902b impostor[209348]: [20:02:22 INF] G1ovanni did task action, completed: yes
+Apr 19 20:02:30 vps-c34d902b impostor[209348]: [20:02:30 INF] Meeting Started.
+Apr 19 20:02:30 vps-c34d902b impostor[209348]: [20:02:30 INF] {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:02:30 vps-c34d902b impostor[209348]: [20:02:30 INF] Message sent: {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:04:37 vps-c34d902b impostor[209348]: [20:04:37 INF] GameTimerPlugin: Skip Majority.
+Apr 19 20:04:37 vps-c34d902b impostor[209348]: [20:04:37 INF] Meeting Ended.
+Apr 19 20:04:37 vps-c34d902b impostor[209348]: [20:04:37 INF] {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:04:37 vps-c34d902b impostor[209348]: [20:04:37 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["Fear","Rocky"]}
+Apr 19 20:04:56 vps-c34d902b impostor[209348]: [20:04:56 INF] Dani did task action, completed: yes
+Apr 19 20:04:57 vps-c34d902b impostor[209348]: [20:04:57 INF] veeg did task action, completed: yes
+Apr 19 20:05:00 vps-c34d902b impostor[209348]: [20:05:00 INF] Dani did task action, completed: yes
+Apr 19 20:05:05 vps-c34d902b impostor[209348]: [20:05:05 INF] zak did task action, completed: yes
+Apr 19 20:05:11 vps-c34d902b impostor[209348]: [20:05:11 INF] G1ovanni did task action, completed: yes
+Apr 19 20:05:14 vps-c34d902b impostor[209348]: [20:05:14 INF] sylvos did task action, completed: yes
+Apr 19 20:05:19 vps-c34d902b impostor[209348]: [20:05:19 INF] Dani did task action, completed: yes
+Apr 19 20:05:21 vps-c34d902b impostor[209348]: [20:05:21 INF] Dani did task action, completed: yes
+Apr 19 20:05:28 vps-c34d902b impostor[209348]: [20:05:28 INF] G1ovanni did task action, completed: yes
+Apr 19 20:05:29 vps-c34d902b impostor[209348]: [20:05:29 INF] veeg did task action, completed: yes
+Apr 19 20:05:34 vps-c34d902b impostor[209348]: [20:05:34 INF] G1ovanni did task action, completed: yes
+Apr 19 20:05:36 vps-c34d902b impostor[209348]: [20:05:36 INF] G1ovanni did task action, completed: yes
+Apr 19 20:05:37 vps-c34d902b impostor[209348]: [20:05:37 INF] sylvos did task action, completed: yes
+Apr 19 20:05:45 vps-c34d902b impostor[209348]: [20:05:45 INF] G1ovanni did task action, completed: yes
+Apr 19 20:05:46 vps-c34d902b impostor[209348]: [20:05:46 INF] veeg did task action, completed: yes
+Apr 19 20:05:53 vps-c34d902b impostor[209348]: [20:05:53 INF] Dani did task action, completed: yes
+Apr 19 20:06:13 vps-c34d902b impostor[209348]: [20:06:13 INF] sylvos did task action, completed: yes
+Apr 19 20:06:13 vps-c34d902b impostor[209348]: [20:06:13 INF] veeg did task action, completed: yes
+Apr 19 20:06:17 vps-c34d902b impostor[209348]: [20:06:17 INF] sylvos did task action, completed: yes
+Apr 19 20:06:19 vps-c34d902b impostor[209348]: [20:06:19 INF] veeg did task action, completed: yes
+Apr 19 20:06:30 vps-c34d902b impostor[209348]: [20:06:30 INF] sylvos did task action, completed: yes
+Apr 19 20:06:42 vps-c34d902b impostor[209348]: [20:06:42 INF] veeg did task action, completed: yes
+Apr 19 20:06:45 vps-c34d902b impostor[209348]: [20:06:45 INF] zak did task action, completed: yes
+Apr 19 20:06:51 vps-c34d902b impostor[209348]: [20:06:51 INF] zak did task action, completed: yes
+Apr 19 20:06:59 vps-c34d902b impostor[209348]: [20:06:59 INF] day in the did task action, completed: yes
+Apr 19 20:07:00 vps-c34d902b impostor[209348]: [20:07:00 INF] day in the did task action, completed: yes
+Apr 19 20:07:01 vps-c34d902b impostor[209348]: [20:07:01 INF] zak killed
+Apr 19 20:07:03 vps-c34d902b impostor[209348]: [20:07:03 INF] veeg did task action, completed: yes
+Apr 19 20:07:05 vps-c34d902b impostor[209348]: [20:07:05 INF] sylvos did task action, completed: yes
+Apr 19 20:07:08 vps-c34d902b impostor[209348]: [20:07:08 INF] veeg did task action, completed: yes
+Apr 19 20:07:09 vps-c34d902b impostor[209348]: [20:07:09 INF] Dani did task action, completed: yes
+Apr 19 20:07:10 vps-c34d902b impostor[209348]: [20:07:10 INF] sylvos killed
+Apr 19 20:07:10 vps-c34d902b impostor[209348]: [20:07:10 INF] Meeting Started.
+Apr 19 20:07:10 vps-c34d902b impostor[209348]: [20:07:10 INF] {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["sylvos","zak","Fear","Rocky"]}
+Apr 19 20:07:10 vps-c34d902b impostor[209348]: [20:07:10 INF] Message sent: {"EventName":"MeetingStart","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["sylvos","zak","Fear","Rocky"]}
+Apr 19 20:09:31 vps-c34d902b impostor[209348]: [20:09:31 INF] Meeting Ended.
+Apr 19 20:09:31 vps-c34d902b impostor[209348]: [20:09:31 INF] {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["nias","sylvos","zak","Fear","Rocky"]}
+Apr 19 20:09:31 vps-c34d902b impostor[209348]: [20:09:31 INF] Message sent: {"EventName":"MeetingEnd","GameCode":"GLESZK","Players":["nias","sylvos","zak","veeg","Dani","Jay","G1ovanni","day in the","Fear","Rocky"],"DeadPlayers":["nias","sylvos","zak","Fear","Rocky"]}
